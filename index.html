@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reach Right USA | Lowe's Store Locator</title>
+  <meta name="description" content="Map Lowe's stores carrying Reach Right USA.">
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="preconnect" href="https://tile.openstreetmap.org">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="page">
+    <section class="hero">
+      <p class="eyebrow">Reach Right USA</p>
+      <h1>Lowe's Store Locator</h1>
+      <p class="subtitle">Paste Lowe's store numbers, map locations, and export addresses for marketing use.</p>
+    </section>
+
+    <section class="panel controls">
+      <label for="storeNumbers">Store numbers</label>
+      <textarea id="storeNumbers" placeholder="Example:
+1234
+5678
+9012"></textarea>
+
+      <div class="actions">
+        <button id="mapButton" type="button">Map Stores</button>
+        <button id="exportButton" type="button" disabled>Export CSV</button>
+      </div>
+
+      <p id="status" class="status">Ready.</p>
+      <p class="hint">Tip: Update <code>data/lowes-store-directory.json</code> with known store/address pairs for best accuracy.</p>
+    </section>
+
+    <section class="panel map-wrap">
+      <div id="map" aria-label="Store map"></div>
+    </section>
+
+    <section class="panel results-wrap">
+      <h2>Results</h2>
+      <table id="resultsTable">
+        <thead>
+          <tr>
+            <th>Store #</th>
+            <th>Address</th>
+            <th>Source</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="4">No stores mapped yet.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="anonymous"></script>
+  <script src="app.js" type="module"></script>
+</body>
+</html>

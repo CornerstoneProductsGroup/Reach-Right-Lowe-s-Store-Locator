@@ -1,0 +1,74 @@
+{
+  "413": {
+    "name": "Lowe's Home Improvement",
+    "address": "10 E Campbell Rd, Madison, TN 37115",
+    "lat": 36.2790239,
+    "lng": -86.7116327
+  },
+  "498": {
+    "name": "Lowe's Home Improvement",
+    "address": "2150 Lowes Dr, Clarksville, TN 37040",
+    "lat": 36.5755236,
+    "lng": -87.3050365
+  },
+  "532": {
+    "name": "Lowe's Home Improvement",
+    "address": "3060 Mallory Ln, Franklin, TN 37067",
+    "lat": 35.9443455,
+    "lng": -86.817273
+  },
+  "629": {
+    "name": "Lowe's Home Improvement",
+    "address": "7034 Charlotte Pike, Nashville, TN 37209",
+    "lat": 36.1334962,
+    "lng": -86.9061886
+  },
+  "668": {
+    "name": "Lowe's Home Improvement",
+    "address": "360 E Main St, Hendersonville, TN 37075",
+    "lat": 36.3153027,
+    "lng": -86.5945947
+  },
+  "1666": {
+    "name": "Lowe's Home Improvement",
+    "address": "4580 Fort Campbell Blvd, Hopkinsville, KY 42240",
+    "lat": 36.8212074,
+    "lng": -87.4731293
+  },
+  "1675": {
+    "name": "Lowe's Home Improvement",
+    "address": "116 Jackson Brothers Blvd, Dickson, TN 37055",
+    "lat": 36.0503107,
+    "lng": -87.3620793
+  },
+  "1747": {
+    "name": "Lowe's Home Improvement",
+    "address": "3480 Tom Austin Hwy, Springfield, TN 37172",
+    "lat": 36.4886036,
+    "lng": -86.8840165
+  },
+  "2618": {
+    "name": "Lowe's Home Improvement",
+    "address": "1301 Nashville Pike, Gallatin, TN 37066",
+    "lat": 36.3653488,
+    "lng": -86.4869037
+  },
+  "2776": {
+    "name": "Lowe's Home Improvement",
+    "address": "1555 Nashville Rd, Franklin, KY 42134",
+    "lat": 36.695590013031,
+    "lng": -86.568477967087
+  },
+  "2851": {
+    "name": "Lowe's Home Improvement",
+    "address": "3460 Dickerson Pike, Nashville, TN 37207",
+    "lat": 36.242103,
+    "lng": -86.757151
+  },
+  "3003": {
+    "name": "Lowe's Home Improvement",
+    "address": "1622 Madison St, Clarksville, TN 37043",
+    "lat": 36.5125405,
+    "lng": -87.3183943
+  }
+}

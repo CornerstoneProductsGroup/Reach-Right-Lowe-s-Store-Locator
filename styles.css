@@ -1,0 +1,176 @@
+:root {
+  --bg: #f6f7f2;
+  --surface: #ffffff;
+  --ink: #1f2a1f;
+  --muted: #5d675d;
+  --brand: #1f6f3d;
+  --brand-strong: #154f2d;
+  --accent: #f6c65b;
+  --line: #d9ded2;
+  --radius: 16px;
+  --shadow: 0 12px 28px rgba(12, 29, 16, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+  color: var(--ink);
+  background:
+    radial-gradient(circle at 10% 10%, #fff8e8 0, #fff8e8 20%, transparent 40%),
+    radial-gradient(circle at 90% 15%, #e4f2dd 0, #e4f2dd 15%, transparent 45%),
+    var(--bg);
+}
+
+.page {
+  width: min(1100px, 92vw);
+  margin: 2rem auto 3rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.hero {
+  padding: 1.25rem 0.2rem 0.5rem;
+}
+
+.eyebrow {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--brand);
+  font-weight: 700;
+  font-size: 0.82rem;
+}
+
+h1 {
+  margin: 0.2rem 0 0.35rem;
+  font-size: clamp(1.7rem, 3.2vw, 2.6rem);
+  line-height: 1.1;
+}
+
+.subtitle {
+  margin: 0;
+  color: var(--muted);
+  font-size: 1rem;
+}
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1rem;
+}
+
+.controls label {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 0.45rem;
+}
+
+textarea {
+  width: 100%;
+  min-height: 130px;
+  resize: vertical;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 0.8rem;
+  font: inherit;
+}
+
+.actions {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.8rem;
+}
+
+button {
+  appearance: none;
+  border: none;
+  border-radius: 10px;
+  padding: 0.62rem 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+#mapButton {
+  color: #fff;
+  background: linear-gradient(135deg, var(--brand), var(--brand-strong));
+}
+
+#exportButton {
+  color: var(--ink);
+  background: linear-gradient(135deg, #fde3a7, var(--accent));
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.status {
+  margin: 0.8rem 0 0.25rem;
+  font-weight: 700;
+}
+
+.hint {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.map-wrap {
+  padding: 0;
+  overflow: hidden;
+}
+
+#map {
+  height: min(62vh, 560px);
+  width: 100%;
+}
+
+h2 {
+  margin-top: 0.2rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 0.55rem 0.45rem;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+
+th {
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+}
+
+@media (max-width: 700px) {
+  .actions {
+    flex-wrap: wrap;
+  }
+
+  button {
+    width: 100%;
+  }
+
+  #map {
+    height: 52vh;
+  }
+
+  th,
+  td {
+    font-size: 0.9rem;
+  }
+}
