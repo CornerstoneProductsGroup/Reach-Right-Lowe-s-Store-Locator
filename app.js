@@ -120,7 +120,8 @@ async function loadDirectory() {
 
     const directory = await response.json();
     stores = normalizeStores(directory);
-    statusEl.textContent = `Ready. ${stores.length} stores available.`;
+    plotAllStores(stores);
+    statusEl.textContent = `Ready. Showing ${stores.length} stores. Enter ZIP code to filter by distance.`;
   } catch (error) {
     stores = [];
     statusEl.textContent = "Could not load store list. Please try again later.";
@@ -145,6 +146,24 @@ function renderRows(rows) {
     .join("");
 
   resultsBody.innerHTML = html;
+}
+
+function plotAllStores(rows) {
+  clearMarkers();
+
+  rows.forEach((row) => {
+    const marker = L.marker([row.lat, row.lng]).addTo(map);
+    marker.bindPopup(`<strong>Store #${row.storeNumber}</strong><br>${row.address}`);
+    markers.push(marker);
+  });
+
+  if (!rows.length) {
+    map.setView([39.8283, -98.5795], 4);
+    return;
+  }
+
+  const bounds = L.latLngBounds(rows.map((row) => [row.lat, row.lng]));
+  map.fitBounds(bounds, { padding: [30, 30] });
 }
 
 function plotResults(zipCenter, rows) {
