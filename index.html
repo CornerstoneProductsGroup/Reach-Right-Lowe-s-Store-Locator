@@ -15,23 +15,34 @@
     <section class="hero">
       <p class="eyebrow">Reach Right USA</p>
       <h1>Lowe's Store Locator</h1>
-      <p class="subtitle">Paste Lowe's store numbers, map locations, and export addresses for marketing use.</p>
+      <p class="subtitle">Enter your ZIP code and distance to find nearby Lowe's stores carrying Reach Right USA.</p>
     </section>
 
     <section class="panel controls">
-      <label for="storeNumbers">Store numbers</label>
-      <textarea id="storeNumbers" placeholder="Example:
-1234
-5678
-9012"></textarea>
+      <div class="form-grid">
+        <div>
+          <label for="zipCode">ZIP code</label>
+          <input id="zipCode" inputmode="numeric" maxlength="5" placeholder="37067" aria-label="ZIP code">
+        </div>
+        <div>
+          <label for="radiusMiles">Distance (miles)</label>
+          <select id="radiusMiles" aria-label="Distance in miles">
+            <option value="10">10 miles</option>
+            <option value="25" selected>25 miles</option>
+            <option value="50">50 miles</option>
+            <option value="75">75 miles</option>
+            <option value="100">100 miles</option>
+          </select>
+        </div>
+      </div>
 
       <div class="actions">
-        <button id="mapButton" type="button">Map Stores</button>
-        <button id="exportButton" type="button" disabled>Export CSV</button>
+        <button id="searchButton" type="button">Find Stores</button>
+        <button id="exportButton" type="button" disabled>Export Results</button>
       </div>
 
       <p id="status" class="status">Ready.</p>
-      <p class="hint">Tip: Update <code>data/lowes-store-directory.json</code> with known store/address pairs for best accuracy.</p>
+      <p class="hint">Search uses the Reach Right Lowe's list you provided. Results are ordered by closest distance.</p>
     </section>
 
     <section class="panel map-wrap">
@@ -45,13 +56,12 @@
           <tr>
             <th>Store #</th>
             <th>Address</th>
-            <th>Source</th>
-            <th>Status</th>
+            <th>Distance</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td colspan="4">No stores mapped yet.</td>
+            <td colspan="3">Enter ZIP code and radius to search.</td>
           </tr>
         </tbody>
       </table>

@@ -1,21 +1,21 @@
 # Reach Right Lowe's Store Locator
 
-A lightweight, Netlify-ready web app to map Lowe's stores that carry Reach Right USA.
+A lightweight, Netlify-ready web app to help customers find nearby Lowe's stores carrying Reach Right USA.
 
 ## What this app does
 
-- Accepts a list of Lowe's store numbers.
-- Looks up matching addresses from a local directory file when available.
-- Tries OpenStreetMap lookup for missing store numbers.
-- Plots matched stores on an interactive map.
-- Lets you export mapped results as CSV.
+- Accepts a customer ZIP code and search radius in miles.
+- Uses your approved Lowe's store list from `data/lowes-store-directory.json`.
+- Shows nearby stores sorted by distance.
+- Plots customer search center and nearby stores on an interactive map.
+- Lets you export nearby results as CSV.
 
 ## Quick start
 
 1. Open `index.html` locally, or deploy this repo to Netlify.
-2. Paste store numbers into the input box (one per line or comma-separated).
-3. Click **Map Stores**.
-4. Review unresolved stores and add them to `data/lowes-store-directory.json` for exact matching.
+2. Enter ZIP code and select a radius in miles.
+3. Click **Find Stores**.
+4. Review nearby stores and optionally export CSV.
 
 ## Data format
 
@@ -36,7 +36,7 @@ Notes:
 
 - Key = Lowe's store number as text.
 - Include `lat` and `lng` if you already know coordinates.
-- If coordinates are missing, the app geocodes from the address.
+- Best performance comes from including `lat` and `lng` for each store.
 
 ## Deploy to Netlify
 
