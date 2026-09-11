@@ -1,9 +1,285 @@
 {
+  "5": {
+    "name": "Lowe's Home Improvement",
+    "address": "4817 North Kickapoo Ave, Shawnee, OK 74804",
+    "lat": 35.381769,
+    "lng": -96.927902
+  },
+  "33": {
+    "name": "Lowe's Home Improvement",
+    "address": "955 Bullsboro Dr, Newnan, GA 30265",
+    "lat": 33.39372,
+    "lng": -84.747356
+  },
+  "63": {
+    "name": "Lowe's Home Improvement",
+    "address": "3315 North Loop 250 W., Midland, TX 79707",
+    "lat": 32.013243,
+    "lng": -102.16039
+  },
+  "72": {
+    "name": "Lowe's Home Improvement",
+    "address": "3500 North 14th St., Ponca City, OK 74601",
+    "lat": 36.747012,
+    "lng": -97.068839
+  },
+  "75": {
+    "name": "Lowe's Home Improvement",
+    "address": "3301 Kell Blvd., Wichita Falls, TX 76308",
+    "lat": 33.88059,
+    "lng": -98.537666
+  },
+  "86": {
+    "name": "Lowe's Home Improvement",
+    "address": "3565 Holland Road, Virginia Beach, VA 23452",
+    "lat": 36.810929,
+    "lng": -76.096805
+  },
+  "90": {
+    "name": "Lowe's Home Improvement",
+    "address": "5301 Sherwood Way, San Angelo, TX 76904",
+    "lat": 31.427941,
+    "lng": -100.507413
+  },
+  "113": {
+    "name": "Lowe's Home Improvement",
+    "address": "1512 West Koger Center Dr., Richmond, VA 23235",
+    "lat": 37.51451,
+    "lng": -77.608988
+  },
+  "124": {
+    "name": "Lowe's Home Improvement",
+    "address": "2901 Old Shawnee, Muskogee, OK 74403",
+    "lat": 35.76808,
+    "lng": -95.330299
+  },
+  "127": {
+    "name": "Lowe's Home Improvement",
+    "address": "2801 N US Highway 75, Sherman, TX 75090",
+    "lat": 33.668197,
+    "lng": -96.607533
+  },
+  "138": {
+    "name": "Lowe's Home Improvement",
+    "address": "4134 Ridgemont Dr., Abilene, TX 79606",
+    "lat": 32.402004,
+    "lng": -99.766239
+  },
+  "174": {
+    "name": "Lowe's Home Improvement",
+    "address": "501 Walton Drive, Texarkana, TX 75501",
+    "lat": 33.447783,
+    "lng": -94.100488
+  },
+  "177": {
+    "name": "Lowe's Home Improvement",
+    "address": "24065 Highway 80 East, Statesboro, GA 30461",
+    "lat": 32.431143,
+    "lng": -81.755061
+  },
+  "183": {
+    "name": "Lowe's Home Improvement",
+    "address": "1255 S Loop 288, Denton, TX 76205",
+    "lat": 33.196851,
+    "lng": -97.090136
+  },
+  "190": {
+    "name": "Lowe's Home Improvement",
+    "address": "301 Market Place Blvd, Cartersville, GA 30120",
+    "lat": 34.200129,
+    "lng": -84.789451
+  },
+  "205": {
+    "name": "Lowe's Home Improvement",
+    "address": "5201 W Garriott Rd, Enid, OK 73703",
+    "lat": 36.389259,
+    "lng": -97.942318
+  },
+  "241": {
+    "name": "Lowe's Home Improvement",
+    "address": "1616 North Perkins Rd., Stillwater, OK 74075",
+    "lat": 36.138998,
+    "lng": -97.053122
+  },
+  "243": {
+    "name": "Lowe's Home Improvement",
+    "address": "10156 E 71st St, Tulsa, OK 74133",
+    "lat": 36.059076,
+    "lng": -95.862832
+  },
+  "247": {
+    "name": "Lowe's Home Improvement",
+    "address": "8001 Brook Rd., Richmond, VA 23227",
+    "lat": 37.633172,
+    "lng": -77.453808
+  },
+  "268": {
+    "name": "Lowe's Home Improvement",
+    "address": "100 SW 74th St, Oklahoma City, OK 73139",
+    "lat": 35.389496,
+    "lng": -97.513895
+  },
+  "270": {
+    "name": "Lowe's Home Improvement",
+    "address": "5000 South Coulter St., Amarillo, TX 79119",
+    "lat": 35.15734,
+    "lng": -101.923072
+  },
+  "271": {
+    "name": "Lowe's Home Improvement",
+    "address": "5022 West Loop 289, Lubbock, TX 79424",
+    "lat": 33.546243,
+    "lng": -101.938419
+  },
+  "313": {
+    "name": "Lowe's Home Improvement",
+    "address": "1717 Cherokee Ave., SW, Cullman, AL 35055",
+    "lat": 34.15672,
+    "lng": -86.840185
+  },
+  "351": {
+    "name": "Lowe's Home Improvement",
+    "address": "2205 SE Adams Blvd., Bartlesville, OK 74006",
+    "lat": 36.741366,
+    "lng": -95.951803
+  },
+  "358": {
+    "name": "Lowe's Home Improvement",
+    "address": "1207 N. Main St., Summerville, SC 29483",
+    "lat": 33.033182,
+    "lng": -80.158544
+  },
+  "381": {
+    "name": "Lowe's Home Improvement",
+    "address": "9490 West Broad St., Richmond, VA 23294",
+    "lat": 37.641338,
+    "lng": -77.556897
+  },
+  "385": {
+    "name": "Lowe's Home Improvement",
+    "address": "390 Harbison Blvd., Columbia, SC 29212",
+    "lat": 34.080756,
+    "lng": -81.152185
+  },
+  "388": {
+    "name": "Lowe's Home Improvement",
+    "address": "1929 Skibo Square, Fayetteville, NC 28314",
+    "lat": 35.066424,
+    "lng": -78.964459
+  },
+  "403": {
+    "name": "Lowe's Home Improvement",
+    "address": "11114 Abercorn St., Savannah, GA 31419",
+    "lat": 31.981702,
+    "lng": -81.141308
+  },
+  "410": {
+    "name": "Lowe's Home Improvement",
+    "address": "1160 Seaboard St., Myrtle Beach, SC 29577",
+    "lat": 33.714273,
+    "lng": -78.892596
+  },
+  "411": {
+    "name": "Lowe's Home Improvement",
+    "address": "10050 S. Memorial Pkwy, Huntsville, AL 35803",
+    "lat": 34.6427,
+    "lng": -86.568672
+  },
   "413": {
     "name": "Lowe's Home Improvement",
     "address": "10 E Campbell Rd, Madison, TN 37115",
     "lat": 36.2790239,
     "lng": -86.7116327
+  },
+  "414": {
+    "name": "Lowe's Home Improvement",
+    "address": "2111 Fair Park Blvd., Jonesboro, AR 72401",
+    "lat": 35.819025,
+    "lng": -90.674234
+  },
+  "420": {
+    "name": "Lowe's Home Improvement",
+    "address": "300 Chatham Drive, Newport News, VA 23602",
+    "lat": 37.124024,
+    "lng": -76.511962
+  },
+  "423": {
+    "name": "Lowe's Home Improvement",
+    "address": "4900 Oscar Baxter Dr., Tuscaloosa, AL 35405",
+    "lat": 33.167498,
+    "lng": -87.553984
+  },
+  "433": {
+    "name": "Lowe's Home Improvement",
+    "address": "7441 Two Notch Road, Columbia, SC 29223",
+    "lat": 34.07209,
+    "lng": -80.951932
+  },
+  "434": {
+    "name": "Lowe's Home Improvement",
+    "address": "1514 Skelton Road, Gainesville, GA 30504",
+    "lat": 34.290578,
+    "lng": -83.848837
+  },
+  "439": {
+    "name": "Lowe's Home Improvement",
+    "address": "1308 Battlefield Blvd N, Chesapeake, VA 23320",
+    "lat": 36.763081,
+    "lng": -76.252985
+  },
+  "441": {
+    "name": "Lowe's Home Improvement",
+    "address": "1950 Eastern Blvd., Montgomery, AL 36117",
+    "lat": 32.354566,
+    "lng": -86.220154
+  },
+  "445": {
+    "name": "Lowe's Home Improvement",
+    "address": "354 South College Rd., Wilmington, NC 28403",
+    "lat": 34.236404,
+    "lng": -77.878828
+  },
+  "463": {
+    "name": "Lowe's Home Improvement",
+    "address": "5720 South Broadway, Tyler, TX 75703",
+    "lat": 32.285759,
+    "lng": -95.302055
+  },
+  "469": {
+    "name": "Lowe's Home Improvement",
+    "address": "6068 Calhoun Mem. Hwy., Easley, SC 29640",
+    "lat": 34.825033,
+    "lng": -82.576732
+  },
+  "481": {
+    "name": "Lowe's Home Improvement",
+    "address": "130 Cox Creek Pkwy South, Florence, AL 35630",
+    "lat": 34.828037,
+    "lng": -87.629994
+  },
+  "482": {
+    "name": "Lowe's Home Improvement",
+    "address": "224 Bobby Jones Exp., Augusta, GA 30907",
+    "lat": 33.507562,
+    "lng": -82.090872
+  },
+  "483": {
+    "name": "Lowe's Home Improvement",
+    "address": "2704 Watson Blvd., Warner Robins, GA 31093",
+    "lat": 32.620251,
+    "lng": -83.670628
+  },
+  "496": {
+    "name": "Lowe's Home Improvement",
+    "address": "671 Vann Drive, Jackson, TN 38305",
+    "lat": 35.668322,
+    "lng": -88.848054
+  },
+  "497": {
+    "name": "Lowe's Home Improvement",
+    "address": "7555 Northwood Blvd., North Charleston, SC 29406",
+    "lat": 32.937978,
+    "lng": -80.047293
   },
   "498": {
     "name": "Lowe's Home Improvement",
@@ -11,11 +287,257 @@
     "lat": 36.5755236,
     "lng": -87.3050365
   },
+  "499": {
+    "name": "Lowe's Home Improvement",
+    "address": "2829 Augusta Rd, West Columbia, SC 29170",
+    "lat": 33.978519,
+    "lng": -81.112208
+  },
+  "505": {
+    "name": "Lowe's Home Improvement",
+    "address": "5001 Central Expy, Plano, TX 75023",
+    "lat": 33.053776,
+    "lng": -96.697876
+  },
+  "506": {
+    "name": "Lowe's Home Improvement",
+    "address": "1851 Epps Bridge Rd., Athens, GA 30606",
+    "lat": 33.917131,
+    "lng": -83.446175
+  },
+  "510": {
+    "name": "Lowe's Home Improvement",
+    "address": "4444 N. Galloway Ave., Mesquite, TX 75150",
+    "lat": 32.825566,
+    "lng": -96.621513
+  },
+  "512": {
+    "name": "Lowe's Home Improvement",
+    "address": "3505 Mt. Zion Rd., Stockbridge, GA 30281",
+    "lat": 33.550014,
+    "lng": -84.279241
+  },
+  "513": {
+    "name": "Lowe's Home Improvement",
+    "address": "8520 South Hampton Rd., Dallas, TX 75232",
+    "lat": 32.643216,
+    "lng": -96.855389
+  },
+  "514": {
+    "name": "Lowe's Home Improvement",
+    "address": "920 North Burleson Blvd., Burleson, TX 76028",
+    "lat": 32.562048,
+    "lng": -97.31594
+  },
+  "515": {
+    "name": "Lowe's Home Improvement",
+    "address": "11920 Inwood Rd., Dallas, TX 75244",
+    "lat": 32.911742,
+    "lng": -96.817169
+  },
+  "518": {
+    "name": "Lowe's Home Improvement",
+    "address": "513 Bypass 72 NW, Greenwood, SC 29649",
+    "lat": 34.205086,
+    "lng": -82.188558
+  },
+  "519": {
+    "name": "Lowe's Home Improvement",
+    "address": "3313 North Fourth, Longview, TX 75605",
+    "lat": 32.544189,
+    "lng": -94.732371
+  },
+  "520": {
+    "name": "Lowe's Home Improvement",
+    "address": "1000 West Arbrook, Arlington, TX 76015",
+    "lat": 32.680568,
+    "lng": -97.12222
+  },
+  "525": {
+    "name": "Lowe's Home Improvement",
+    "address": "4305 Bryant Irvin Road, Fort Worth, TX 76132",
+    "lat": 32.687275,
+    "lng": -97.411837
+  },
+  "528": {
+    "name": "Lowe's Home Improvement",
+    "address": "3958 Grandview Drive, Simpsonville, SC 29680",
+    "lat": 34.710367,
+    "lng": -82.249515
+  },
+  "529": {
+    "name": "Lowe's Home Improvement",
+    "address": "3354 North Gloster St., Tupelo, MS 38804",
+    "lat": 34.302552,
+    "lng": -88.705487
+  },
+  "531": {
+    "name": "Lowe's Home Improvement",
+    "address": "1717 East West Connector, Austell, GA 30106",
+    "lat": 33.853174,
+    "lng": -84.599714
+  },
   "532": {
     "name": "Lowe's Home Improvement",
     "address": "3060 Mallory Ln, Franklin, TN 37067",
     "lat": 35.9443455,
     "lng": -86.817273
+  },
+  "533": {
+    "name": "Lowe's Home Improvement",
+    "address": "770 Grapevine Hwy., Hurst, TX 76054",
+    "lat": 32.858719,
+    "lng": -97.184738
+  },
+  "535": {
+    "name": "Lowe's Home Improvement",
+    "address": "2400 W. Memorial Rd., Oklahoma City, OK 73134",
+    "lat": 35.607064,
+    "lng": -97.556547
+  },
+  "538": {
+    "name": "Lowe's Home Improvement",
+    "address": "10845 US 15-501 Hwy, Southern Pines, NC 28387",
+    "lat": 35.163509,
+    "lng": -79.419289
+  },
+  "539": {
+    "name": "Lowe's Home Improvement",
+    "address": "1104 Market Center Blvd., Mount Pleasant, SC 29464",
+    "lat": 32.826856,
+    "lng": -79.833777
+  },
+  "543": {
+    "name": "Lowe's Home Improvement",
+    "address": "575 Molly Lane, Woodstock, GA 30189",
+    "lat": 34.08181,
+    "lng": -84.539671
+  },
+  "545": {
+    "name": "Lowe's Home Improvement",
+    "address": "2650 Dallas Hwy. S.W., Marietta, GA 30064",
+    "lat": 33.948322,
+    "lng": -84.628269
+  },
+  "546": {
+    "name": "Lowe's Home Improvement",
+    "address": "3190 Macon Tech Dr., Macon, GA 31206",
+    "lat": 32.81351,
+    "lng": -83.689328
+  },
+  "547": {
+    "name": "Lowe's Home Improvement",
+    "address": "700 N. Wesleyan Blvd., Rocky Mount, NC 27804",
+    "lat": 35.9647,
+    "lng": -77.821148
+  },
+  "550": {
+    "name": "Lowe's Home Improvement",
+    "address": "1253 East Trinity Mills Rd, Carrollton, TX 75006",
+    "lat": 32.985725,
+    "lng": -96.902855
+  },
+  "551": {
+    "name": "Lowe's Home Improvement",
+    "address": "1051 N Stemmons Fwy, Lewisville, TX 75067",
+    "lat": 33.057177,
+    "lng": -97.014977
+  },
+  "556": {
+    "name": "Lowe's Home Improvement",
+    "address": "1255 Western Blvd., Jacksonville, NC 28546",
+    "lat": 34.783358,
+    "lng": -77.401088
+  },
+  "557": {
+    "name": "Lowe's Home Improvement",
+    "address": "1202 N Berkeley Blvd, Goldsboro, NC 27534",
+    "lat": 35.379929,
+    "lng": -77.93018
+  },
+  "559": {
+    "name": "Lowe's Home Improvement",
+    "address": "2896 North Road Hwy 178, Orangeburg, SC 29118",
+    "lat": 33.528259,
+    "lng": -80.890506
+  },
+  "566": {
+    "name": "Lowe's Home Improvement",
+    "address": "1400 Lowe'S Boulevard, New Bern, NC 28562",
+    "lat": 35.099608,
+    "lng": -77.089076
+  },
+  "580": {
+    "name": "Lowe's Home Improvement",
+    "address": "375 State Farm Pkwy, Homewood, AL 35209",
+    "lat": 33.445527,
+    "lng": -86.830686
+  },
+  "594": {
+    "name": "Lowe's Home Improvement",
+    "address": "1885 Edwards Lake Rd., Birmingham, AL 35235",
+    "lat": 33.597274,
+    "lng": -86.649385
+  },
+  "598": {
+    "name": "Lowe's Home Improvement",
+    "address": "800 Thomas Langston Rd., Winterville, NC 28590",
+    "lat": 35.563096,
+    "lng": -77.408502
+  },
+  "599": {
+    "name": "Lowe's Home Improvement",
+    "address": "2601 Weir Place, Chester, VA 23831",
+    "lat": 37.348375,
+    "lng": -77.412704
+  },
+  "603": {
+    "name": "Lowe's Home Improvement",
+    "address": "214 U.S. Hwy. #17 North, North Myrtle Beach, SC 29582",
+    "lat": 33.829204,
+    "lng": -78.675327
+  },
+  "609": {
+    "name": "Lowe's Home Improvement",
+    "address": "7001 Winterpock Rd., Chesterfield, VA 23832",
+    "lat": 37.402566,
+    "lng": -77.669533
+  },
+  "610": {
+    "name": "Lowe's Home Improvement",
+    "address": "851 N. Steger Town Dr, Rockwall, TX 75032",
+    "lat": 32.891975,
+    "lng": -96.46811
+  },
+  "611": {
+    "name": "Lowe's Home Improvement",
+    "address": "2949 N George Bush Freeway, Garland, TX 75040",
+    "lat": 32.944556,
+    "lng": -96.610333
+  },
+  "615": {
+    "name": "Lowe's Home Improvement",
+    "address": "10580 Duke Dr, Alpharetta, GA 30004",
+    "lat": 34.038061,
+    "lng": -84.31859
+  },
+  "619": {
+    "name": "Lowe's Home Improvement",
+    "address": "5219 Hwy. 70, Morehead City, NC 28557",
+    "lat": 34.737553,
+    "lng": -76.812198
+  },
+  "620": {
+    "name": "Lowe's Home Improvement",
+    "address": "2100 Valleydale Road, Hoover, AL 35244",
+    "lat": 33.359257,
+    "lng": -86.775501
+  },
+  "626": {
+    "name": "Lowe's Home Improvement",
+    "address": "1251 Broad Street, Sumter, SC 29150",
+    "lat": 33.958262,
+    "lng": -80.385143
   },
   "629": {
     "name": "Lowe's Home Improvement",
@@ -23,11 +545,605 @@
     "lat": 36.1334962,
     "lng": -86.9061886
   },
+  "632": {
+    "name": "Lowe's Home Improvement",
+    "address": "801 East Rochambeau Dr, Williamsburg, VA 23188",
+    "lat": 37.343533,
+    "lng": -76.737806
+  },
+  "636": {
+    "name": "Lowe's Home Improvement",
+    "address": "6750 Veterans Pkwy., Columbus, GA 31909",
+    "lat": 32.541428,
+    "lng": -84.952606
+  },
+  "639": {
+    "name": "Lowe's Home Improvement",
+    "address": "2470 Whiskey Rd., Aiken, SC 29803",
+    "lat": 33.509005,
+    "lng": -81.710204
+  },
+  "640": {
+    "name": "Lowe's Home Improvement",
+    "address": "4855 Stone Mountain Hwy, Lilburn, GA 30047",
+    "lat": 33.828217,
+    "lng": -84.098352
+  },
+  "655": {
+    "name": "Lowe's Home Improvement",
+    "address": "3125 Glenn Mcconnell Pkwy, Charleston, SC 29414",
+    "lat": 32.810934,
+    "lng": -80.046056
+  },
+  "661": {
+    "name": "Lowe's Home Improvement",
+    "address": "770 Daniel Ellis Dr., Charleston, SC 29412",
+    "lat": 32.749231,
+    "lng": -79.968278
+  },
+  "662": {
+    "name": "Lowe's Home Improvement",
+    "address": "1955 Buford Mill Dr., Buford, GA 30519",
+    "lat": 34.087043,
+    "lng": -83.98773
+  },
+  "663": {
+    "name": "Lowe's Home Improvement",
+    "address": "7920 Hwy 72 West, Madison, AL 35758",
+    "lat": 34.754688,
+    "lng": -86.745746
+  },
+  "665": {
+    "name": "Lowe's Home Improvement",
+    "address": "19210 Preston Rd., Dallas, TX 75252",
+    "lat": 33.010224,
+    "lng": -96.792255
+  },
+  "667": {
+    "name": "Lowe's Home Improvement",
+    "address": "1370 W Wade Hampton Blvd, Greer, SC 29650",
+    "lat": 34.940566,
+    "lng": -82.265984
+  },
   "668": {
     "name": "Lowe's Home Improvement",
     "address": "360 E Main St, Hendersonville, TN 37075",
     "lat": 36.3153027,
     "lng": -86.5945947
+  },
+  "676": {
+    "name": "Lowe's Home Improvement",
+    "address": "2501 Shelia Lane, Richmond, VA 23225",
+    "lat": 37.535011,
+    "lng": -77.531169
+  },
+  "678": {
+    "name": "Lowe's Home Improvement",
+    "address": "935 Marketplace Blvd, Cumming, GA 30041",
+    "lat": 34.182999,
+    "lng": -84.132936
+  },
+  "682": {
+    "name": "Lowe's Home Improvement",
+    "address": "5084 Southport Supply Rd SE, Southport, NC 28461",
+    "lat": 33.95358,
+    "lng": -78.045848
+  },
+  "686": {
+    "name": "Lowe's Home Improvement",
+    "address": "1030 N Glynn St, Fayetteville, GA 30214",
+    "lat": 33.472541,
+    "lng": -84.44652
+  },
+  "687": {
+    "name": "Lowe's Home Improvement",
+    "address": "4401 Pouncey Tract Road, Glen Allen, VA 23060",
+    "lat": 37.655431,
+    "lng": -77.609771
+  },
+  "698": {
+    "name": "Lowe's Home Improvement",
+    "address": "1836 US Highway 78 East, Oxford, AL 36203",
+    "lat": 33.613518,
+    "lng": -85.794555
+  },
+  "709": {
+    "name": "Lowe's Home Improvement",
+    "address": "4708 Portsmouth Blvd., Chesapeake, VA 23321",
+    "lat": 36.819659,
+    "lng": -76.438219
+  },
+  "710": {
+    "name": "Lowe's Home Improvement",
+    "address": "3580 Peachtree Parkway, Suwanee, GA 30024",
+    "lat": 34.073544,
+    "lng": -84.167861
+  },
+  "719": {
+    "name": "Lowe's Home Improvement",
+    "address": "45075 Worth Avenue, California, MD 20619",
+    "lat": 38.300002,
+    "lng": -76.516831
+  },
+  "726": {
+    "name": "Lowe's Home Improvement",
+    "address": "2501 Forest Hills Road West, Wilson, NC 27893",
+    "lat": 35.734816,
+    "lng": -77.954631
+  },
+  "728": {
+    "name": "Lowe's Home Improvement",
+    "address": "3515 Clemson Blvd., Anderson, SC 29621",
+    "lat": 34.54861,
+    "lng": -82.678142
+  },
+  "730": {
+    "name": "Lowe's Home Improvement",
+    "address": "7001 Douglas Blvd, Douglasville, GA 30135",
+    "lat": 33.726696,
+    "lng": -84.759552
+  },
+  "732": {
+    "name": "Lowe's Home Improvement",
+    "address": "201 North Kimball Avenue, Southlake, TX 76092",
+    "lat": 32.941586,
+    "lng": -97.114266
+  },
+  "736": {
+    "name": "Lowe's Home Improvement",
+    "address": "1701 Frederick Road, Opelika, AL 36801",
+    "lat": 32.620475,
+    "lng": -85.401768
+  },
+  "739": {
+    "name": "Lowe's Home Improvement",
+    "address": "5060 Fayetteville Rd., Lumberton, NC 28358",
+    "lat": 34.664299,
+    "lng": -79.003517
+  },
+  "767": {
+    "name": "Lowe's Home Improvement",
+    "address": "3909 Ramsey Street, Fayetteville, NC 28311",
+    "lat": 35.115453,
+    "lng": -78.882375
+  },
+  "786": {
+    "name": "Lowe's Home Improvement",
+    "address": "1701 Carolina Avenue, Washington, NC 27889",
+    "lat": 35.566164,
+    "lng": -77.061378
+  },
+  "790": {
+    "name": "Lowe's Home Improvement",
+    "address": "7825 Rosedale Highway, Bakersfield, CA 93308",
+    "lat": 35.38146,
+    "lng": -119.089894
+  },
+  "795": {
+    "name": "Lowe's Home Improvement",
+    "address": "7651 North Blackstone Ave., Fresno, CA 93720",
+    "lat": 36.846963,
+    "lng": -119.793584
+  },
+  "1004": {
+    "name": "Lowe's Home Improvement",
+    "address": "8672 Highway 17 Byp S, Myrtle Beach, SC 29588",
+    "lat": 33.646053,
+    "lng": -78.986837
+  },
+  "1016": {
+    "name": "Lowe's Home Improvement",
+    "address": "6011 Zebulon Road, Macon, GA 31210",
+    "lat": 32.882338,
+    "lng": -83.762604
+  },
+  "1019": {
+    "name": "Lowe's Home Improvement",
+    "address": "1340 El Camino Real, San Bruno, CA 94066",
+    "lat": 37.640566,
+    "lng": -122.420812
+  },
+  "1037": {
+    "name": "Lowe's Home Improvement",
+    "address": "1640 West Broad Street, Richmond, VA 23220",
+    "lat": 37.555676,
+    "lng": -77.45672
+  },
+  "1038": {
+    "name": "Lowe's Home Improvement",
+    "address": "1300-A East Broad Avenue, Rockingham, NC 28379",
+    "lat": 34.920554,
+    "lng": -79.750957
+  },
+  "1043": {
+    "name": "Lowe's Home Improvement",
+    "address": "1951 Auto Center Drive, Antioch, CA 94509",
+    "lat": 38.005023,
+    "lng": -121.833679
+  },
+  "1059": {
+    "name": "Lowe's Home Improvement",
+    "address": "3360 Preston Road, Frisco, TX 75034",
+    "lat": 33.106481,
+    "lng": -96.802772
+  },
+  "1064": {
+    "name": "Lowe's Home Improvement",
+    "address": "7420 Garners Ferry Road, Columbia, SC 29209",
+    "lat": 33.963755,
+    "lng": -80.939093
+  },
+  "1065": {
+    "name": "Lowe's Home Improvement",
+    "address": "1081 North Military Highway, Norfolk, VA 23502",
+    "lat": 36.857887,
+    "lng": -76.211882
+  },
+  "1066": {
+    "name": "Lowe's Home Improvement",
+    "address": "5412 Sunset Blvd, Lexington, SC 29072",
+    "lat": 34.00161,
+    "lng": -81.214012
+  },
+  "1068": {
+    "name": "Lowe's Home Improvement",
+    "address": "351 Whiteville Rd NW, Shallotte, NC 28470",
+    "lat": 33.974976,
+    "lng": -78.399592
+  },
+  "1075": {
+    "name": "Lowe's Home Improvement",
+    "address": "1701 Freedom Blvd, Florence, SC 29505",
+    "lat": 34.159624,
+    "lng": -79.758329
+  },
+  "1076": {
+    "name": "Lowe's Home Improvement",
+    "address": "1901 Georgia Highway 138 SE, Conyers, GA 30013",
+    "lat": 33.639523,
+    "lng": -84.019042
+  },
+  "1086": {
+    "name": "Lowe's Home Improvement",
+    "address": "3801 Pelandale Avenue, Modesto, CA 95356",
+    "lat": 37.702509,
+    "lng": -121.064749
+  },
+  "1087": {
+    "name": "Lowe's Home Improvement",
+    "address": "800 East Bidwell Street, Folsom, CA 95630",
+    "lat": 38.672328,
+    "lng": -121.157521
+  },
+  "1093": {
+    "name": "Lowe's Home Improvement",
+    "address": "3415 Woodward Avenue, Muscle Shoals, AL 35661",
+    "lat": 34.72663,
+    "lng": -87.666053
+  },
+  "1115": {
+    "name": "Lowe's Home Improvement",
+    "address": "11190 US Highway 431, Guntersville, AL 35976",
+    "lat": 34.299864,
+    "lng": -86.267919
+  },
+  "1116": {
+    "name": "Lowe's Home Improvement",
+    "address": "3214 Peach Orchard Road, Augusta, GA 30906",
+    "lat": 33.407662,
+    "lng": -82.024084
+  },
+  "1119": {
+    "name": "Lowe's Home Improvement",
+    "address": "4950 Peachtree Blvd., Chamblee, GA 30341",
+    "lat": 33.885219,
+    "lng": -84.317338
+  },
+  "1120": {
+    "name": "Lowe's Home Improvement",
+    "address": "2301 David H. Mcleod Blvd., Florence, SC 29501",
+    "lat": 34.18882,
+    "lng": -79.819084
+  },
+  "1126": {
+    "name": "Lowe's Home Improvement",
+    "address": "1216 N. Main Street, Suffolk, VA 23434",
+    "lat": 36.747806,
+    "lng": -76.580061
+  },
+  "1132": {
+    "name": "Lowe's Home Improvement",
+    "address": "32040 Union Landing Blvd., Union City, CA 94587",
+    "lat": 37.599638,
+    "lng": -122.063834
+  },
+  "1134": {
+    "name": "Lowe's Home Improvement",
+    "address": "1605 Garth Brooks Blvd, Yukon, OK 73099",
+    "lat": 35.482199,
+    "lng": -97.758222
+  },
+  "1137": {
+    "name": "Lowe's Home Improvement",
+    "address": "4531 Woodrow Bean Transmtn. Rd., El Paso, TX 79924",
+    "lat": 31.900628,
+    "lng": -106.438866
+  },
+  "1138": {
+    "name": "Lowe's Home Improvement",
+    "address": "5110 S. College Road, Wilmington, NC 28412",
+    "lat": 34.147839,
+    "lng": -77.895546
+  },
+  "1143": {
+    "name": "Lowe's Home Improvement",
+    "address": "1751 East Monte Vista Avenue, Vacaville, CA 95688",
+    "lat": 38.372369,
+    "lng": -121.958416
+  },
+  "1146": {
+    "name": "Lowe's Home Improvement",
+    "address": "11950 Rojas Drive, El Paso, TX 79936",
+    "lat": 31.726972,
+    "lng": -106.305105
+  },
+  "1148": {
+    "name": "Lowe's Home Improvement",
+    "address": "8369 Power Inn Road, Elk Grove, CA 95624",
+    "lat": 38.45391,
+    "lng": -121.404013
+  },
+  "1150": {
+    "name": "Lowe's Home Improvement",
+    "address": "4255 First Street, Livermore, CA 94551",
+    "lat": 37.694165,
+    "lng": -121.74467
+  },
+  "1152": {
+    "name": "Lowe's Home Improvement",
+    "address": "430 East Redd Road, El Paso, TX 79912",
+    "lat": 31.862309,
+    "lng": -106.572799
+  },
+  "1153": {
+    "name": "Lowe's Home Improvement",
+    "address": "101 Willow Lane, Mcdonough, GA 30253",
+    "lat": 33.431746,
+    "lng": -84.181238
+  },
+  "1158": {
+    "name": "Lowe's Home Improvement",
+    "address": "3200 North Main Street, Las Cruces, NM 88001",
+    "lat": 32.343714,
+    "lng": -106.772006
+  },
+  "1163": {
+    "name": "Lowe's Home Improvement",
+    "address": "7895 Winchester Road, Memphis, TN 38125",
+    "lat": 35.04759,
+    "lng": -89.800574
+  },
+  "1165": {
+    "name": "Lowe's Home Improvement",
+    "address": "2555 Hemphill Drive, Norman, OK 73069",
+    "lat": 35.224584,
+    "lng": -97.481622
+  },
+  "1176": {
+    "name": "Lowe's Home Improvement",
+    "address": "1641 Beltine Road SW, Decatur, AL 35601",
+    "lat": 34.567776,
+    "lng": -87.014257
+  },
+  "1181": {
+    "name": "Lowe's Home Improvement",
+    "address": "2307 Cobbs Ford Road, Prattville, AL 36066",
+    "lat": 32.462261,
+    "lng": -86.401692
+  },
+  "1186": {
+    "name": "Lowe's Home Improvement",
+    "address": "2002 Power Plant Parkway, Hampton, VA 23666",
+    "lat": 37.038169,
+    "lng": -76.397179
+  },
+  "1187": {
+    "name": "Lowe's Home Improvement",
+    "address": "8300 Highway 64, Bartlett, TN 38133",
+    "lat": 35.206133,
+    "lng": -89.786237
+  },
+  "1199": {
+    "name": "Lowe's Home Improvement",
+    "address": "1010 West Mcdermott Drive, Allen, TX 75013",
+    "lat": 33.102017,
+    "lng": -96.686451
+  },
+  "1201": {
+    "name": "Lowe's Home Improvement",
+    "address": "2350 Forest Ave, Chico, CA 95928",
+    "lat": 39.716589,
+    "lng": -121.798318
+  },
+  "1207": {
+    "name": "Lowe's Home Improvement",
+    "address": "10201 Fairway Drive, Roseville, CA 95678",
+    "lat": 38.786615,
+    "lng": -121.279714
+  },
+  "1500": {
+    "name": "Lowe's Home Improvement",
+    "address": "12001 E. 96th Street North, Owasso, OK 74055",
+    "lat": 36.294715,
+    "lng": -95.841013
+  },
+  "1507": {
+    "name": "Lowe's Home Improvement",
+    "address": "2035 Beaver Ruin Road, Norcross, GA 30071",
+    "lat": 33.931943,
+    "lng": -84.175578
+  },
+  "1511": {
+    "name": "Lowe's Home Improvement",
+    "address": "1901 Highway 287 N, Mansfield, TX 76063",
+    "lat": 32.593766,
+    "lng": -97.146438
+  },
+  "1513": {
+    "name": "Lowe's Home Improvement",
+    "address": "2338 Shorter Avenue N.W., Rome, GA 30165",
+    "lat": 34.273144,
+    "lng": -85.234505
+  },
+  "1521": {
+    "name": "Lowe's Home Improvement",
+    "address": "207 Robert Smalls Pkwy, Beaufort, SC 29906",
+    "lat": 32.428338,
+    "lng": -80.717987
+  },
+  "1524": {
+    "name": "Lowe's Home Improvement",
+    "address": "600 N. Tarrant Pkwy., Keller, TX 76248",
+    "lat": 32.897464,
+    "lng": -97.240229
+  },
+  "1526": {
+    "name": "Lowe's Home Improvement",
+    "address": "430 S. Germantown Parkway, Cordova, TN 38018",
+    "lat": 35.118836,
+    "lng": -89.797928
+  },
+  "1531": {
+    "name": "Lowe's Home Improvement",
+    "address": "1201 19th Street North, Bessemer, AL 35020",
+    "lat": 33.410158,
+    "lng": -86.96536
+  },
+  "1532": {
+    "name": "Lowe's Home Improvement",
+    "address": "11114 South Memorial Drive, Bixby, OK 74008",
+    "lat": 36.001681,
+    "lng": -95.889486
+  },
+  "1533": {
+    "name": "Lowe's Home Improvement",
+    "address": "35 Malphrus Road, Bluffton, SC 29910",
+    "lat": 32.241419,
+    "lng": -80.82761
+  },
+  "1536": {
+    "name": "Lowe's Home Improvement",
+    "address": "1900 East Hillside Drive, Broken Arrow, OK 74012",
+    "lat": 36.064793,
+    "lng": -95.76738
+  },
+  "1540": {
+    "name": "Lowe's Home Improvement",
+    "address": "7840 Greenback Lane, Citrus Heights, CA 95610",
+    "lat": 38.677364,
+    "lng": -121.273576
+  },
+  "1541": {
+    "name": "Lowe's Home Improvement",
+    "address": "875 Shaw Avenue, Clovis, CA 93612",
+    "lat": 36.810188,
+    "lng": -119.698942
+  },
+  "1545": {
+    "name": "Lowe's Home Improvement",
+    "address": "3645 East Hammer Lane, Stockton, CA 95212",
+    "lat": 38.022552,
+    "lng": -121.269995
+  },
+  "1546": {
+    "name": "Lowe's Home Improvement",
+    "address": "2403 Virginia Beach Blvd, Virginia Beach, VA 23454",
+    "lat": 36.840514,
+    "lng": -76.054157
+  },
+  "1549": {
+    "name": "Lowe's Home Improvement",
+    "address": "1320 East 2nd Street, Edmond, OK 73034",
+    "lat": 35.649752,
+    "lng": -97.461837
+  },
+  "1552": {
+    "name": "Lowe's Home Improvement",
+    "address": "7151 Camino Arroyo, Gilroy, CA 95020",
+    "lat": 37.005899,
+    "lng": -121.554154
+  },
+  "1577": {
+    "name": "Lowe's Home Improvement",
+    "address": "3505 Memorial Pkwy NW, Huntsville, AL 35810",
+    "lat": 34.773005,
+    "lng": -86.58786
+  },
+  "1580": {
+    "name": "Lowe's Home Improvement",
+    "address": "1525 South Yale Avenue, Tulsa, OK 74112",
+    "lat": 36.13946,
+    "lng": -95.920144
+  },
+  "1582": {
+    "name": "Lowe's Home Improvement",
+    "address": "3500 NW Centre Drive, Fort Worth, TX 76135",
+    "lat": 32.807763,
+    "lng": -97.428437
+  },
+  "1593": {
+    "name": "Lowe's Home Improvement",
+    "address": "4040 Victory Blvd, Portsmouth, VA 23701",
+    "lat": 36.812651,
+    "lng": -76.35575
+  },
+  "1603": {
+    "name": "Lowe's Home Improvement",
+    "address": "1615 Scenic Hwy N, Snellville, GA 30078",
+    "lat": 33.884743,
+    "lng": -84.011919
+  },
+  "1611": {
+    "name": "Lowe's Home Improvement",
+    "address": "4144 South Mooney Boulevard, Visalia, CA 93277",
+    "lat": 36.293521,
+    "lng": -119.310717
+  },
+  "1617": {
+    "name": "Lowe's Home Improvement",
+    "address": "2308 Memorial Drive, Waycross, GA 31501",
+    "lat": 31.195901,
+    "lng": -82.325041
+  },
+  "1619": {
+    "name": "Lowe's Home Improvement",
+    "address": "600 State Highway 183, Fort Worth, TX 76116",
+    "lat": 32.751962,
+    "lng": -97.43381
+  },
+  "1635": {
+    "name": "Lowe's Home Improvement",
+    "address": "195 Bilo Place, Seneca, SC 29678",
+    "lat": 34.689568,
+    "lng": -82.98477
+  },
+  "1640": {
+    "name": "Lowe's Home Improvement",
+    "address": "615 George Wallace Drive, Gadsden, AL 35903",
+    "lat": 33.997637,
+    "lng": -85.996663
+  },
+  "1644": {
+    "name": "Lowe's Home Improvement",
+    "address": "1731 North Columbia Street, Milledgeville, GA 31061",
+    "lat": 33.10154,
+    "lng": -83.24661
+  },
+  "1651": {
+    "name": "Lowe's Home Improvement",
+    "address": "3250 Cobb Pkwy NW, Kennesaw, GA 30152",
+    "lat": 34.035249,
+    "lng": -84.672846
   },
   "1666": {
     "name": "Lowe's Home Improvement",
@@ -35,11 +1151,113 @@
     "lat": 36.8212074,
     "lng": -87.4731293
   },
+  "1668": {
+    "name": "Lowe's Home Improvement",
+    "address": "4925 Windward Parkway, Alpharetta, GA 30004",
+    "lat": 34.09455,
+    "lng": -84.281596
+  },
+  "1672": {
+    "name": "Lowe's Home Improvement",
+    "address": "1750 West Olive Avenue, Merced, CA 95348",
+    "lat": 37.317457,
+    "lng": -120.496687
+  },
   "1675": {
     "name": "Lowe's Home Improvement",
     "address": "116 Jackson Brothers Blvd, Dickson, TN 37055",
     "lat": 36.0503107,
     "lng": -87.3620793
+  },
+  "1689": {
+    "name": "Lowe's Home Improvement",
+    "address": "911 Sunset Avenue, Clinton, NC 28328",
+    "lat": 34.992646,
+    "lng": -78.337976
+  },
+  "1705": {
+    "name": "Lowe's Home Improvement",
+    "address": "2301 E Highway 501, Conway, SC 29526",
+    "lat": 33.792491,
+    "lng": -78.996563
+  },
+  "1706": {
+    "name": "Lowe's Home Improvement",
+    "address": "1389 S. Lower Sacramento Road, Lodi, CA 95242",
+    "lat": 38.117198,
+    "lng": -121.309137
+  },
+  "1708": {
+    "name": "Lowe's Home Improvement",
+    "address": "6200 Colony Street, Bakersfield, CA 93307",
+    "lat": 35.298232,
+    "lng": -119.027048
+  },
+  "1713": {
+    "name": "Lowe's Home Improvement",
+    "address": "1605 West Ehringhaus Street, Elizabeth City, NC 27909",
+    "lat": 36.290944,
+    "lng": -76.245708
+  },
+  "1715": {
+    "name": "Lowe's Home Improvement",
+    "address": "3625 North Commerce Drive, East Point, GA 30344",
+    "lat": 33.656426,
+    "lng": -84.505202
+  },
+  "1718": {
+    "name": "Lowe's Home Improvement",
+    "address": "1900 Poinsett Highway, Greenville, SC 29609",
+    "lat": 34.893677,
+    "lng": -82.406898
+  },
+  "1721": {
+    "name": "Lowe's Home Improvement",
+    "address": "178 Goodman Road West, Southaven, MS 38671",
+    "lat": 34.965163,
+    "lng": -89.993155
+  },
+  "1722": {
+    "name": "Lowe's Home Improvement",
+    "address": "4489 Highway 70 West, Kinston, NC 28504",
+    "lat": 35.259361,
+    "lng": -77.649955
+  },
+  "1723": {
+    "name": "Lowe's Home Improvement",
+    "address": "6659 George Washington Mem. Hwy., Gloucester, VA 23061",
+    "lat": 37.383475,
+    "lng": -76.532643
+  },
+  "1724": {
+    "name": "Lowe's Home Improvement",
+    "address": "4402 N.W. Cache Road, Lawton, OK 73505",
+    "lat": 34.621584,
+    "lng": -98.447218
+  },
+  "1726": {
+    "name": "Lowe's Home Improvement",
+    "address": "5291 Highway 280, Birmingham, AL 35242",
+    "lat": 33.420507,
+    "lng": -86.680287
+  },
+  "1733": {
+    "name": "Lowe's Home Improvement",
+    "address": "1520 Highway 16 West, Griffin, GA 30223",
+    "lat": 33.245465,
+    "lng": -84.29167
+  },
+  "1737": {
+    "name": "Lowe's Home Improvement",
+    "address": "8900 Weaver Avenue, Leeds, AL 35094",
+    "lat": 33.56505,
+    "lng": -86.518128
+  },
+  "1744": {
+    "name": "Lowe's Home Improvement",
+    "address": "1335 Walker Chapel Road, Fultondale, AL 35068",
+    "lat": 33.610139,
+    "lng": -86.803568
   },
   "1747": {
     "name": "Lowe's Home Improvement",
@@ -47,11 +1265,641 @@
     "lat": 36.4886036,
     "lng": -86.8840165
   },
+  "1749": {
+    "name": "Lowe's Home Improvement",
+    "address": "2701 12th Avenue NW, Ardmore, OK 73401",
+    "lat": 34.18889,
+    "lng": -97.162144
+  },
+  "1751": {
+    "name": "Lowe's Home Improvement",
+    "address": "11 Bay Lane, Camden, SC 29020",
+    "lat": 34.248017,
+    "lng": -80.641962
+  },
+  "1752": {
+    "name": "Lowe's Home Improvement",
+    "address": "2131 South Main Street, Grove, OK 74344",
+    "lat": 36.574122,
+    "lng": -94.766614
+  },
+  "1756": {
+    "name": "Lowe's Home Improvement",
+    "address": "5550 Cottle Road, San Jose, CA 95123",
+    "lat": 37.253141,
+    "lng": -121.801784
+  },
+  "1757": {
+    "name": "Lowe's Home Improvement",
+    "address": "1135 Highway 6 East, Batesville, MS 38606",
+    "lat": 34.311392,
+    "lng": -89.909605
+  },
+  "1761": {
+    "name": "Lowe's Home Improvement",
+    "address": "4201 Scenic Dr, Alamogordo, NM 88310",
+    "lat": 32.935365,
+    "lng": -105.962891
+  },
+  "1762": {
+    "name": "Lowe's Home Improvement",
+    "address": "910 East End Blvd. North, Marshall, TX 75670",
+    "lat": 32.553485,
+    "lng": -94.348177
+  },
+  "1771": {
+    "name": "Lowe's Home Improvement",
+    "address": "1710 Chalk Hill Rd, Dallas, TX 75212",
+    "lat": 32.764741,
+    "lng": -96.900828
+  },
+  "1777": {
+    "name": "Lowe's Home Improvement",
+    "address": "524 East Jackson Boulevard, Erwin, NC 28339",
+    "lat": 35.324906,
+    "lng": -78.646037
+  },
+  "1780": {
+    "name": "Lowe's Home Improvement",
+    "address": "11333 E. Northwest Highway, Dallas, TX 75238",
+    "lat": 32.865487,
+    "lng": -96.684135
+  },
+  "1781": {
+    "name": "Lowe's Home Improvement",
+    "address": "3601 North Prince Street, Clovis, NM 88101",
+    "lat": 34.435097,
+    "lng": -103.195107
+  },
+  "1783": {
+    "name": "Lowe's Home Improvement",
+    "address": "1340 Bowens Mill Rd SE, Douglas, GA 31533",
+    "lat": 31.485292,
+    "lng": -82.845332
+  },
+  "1786": {
+    "name": "Lowe's Home Improvement",
+    "address": "1600 Glenn Boulevard SW, Fort Payne, AL 35968",
+    "lat": 34.435999,
+    "lng": -85.754605
+  },
+  "1787": {
+    "name": "Lowe's Home Improvement",
+    "address": "3209 East First Street, Vidalia, GA 30474",
+    "lat": 32.203284,
+    "lng": -82.358061
+  },
+  "1793": {
+    "name": "Lowe's Home Improvement",
+    "address": "380 Highland Crossing, East Ellijay, GA 30540",
+    "lat": 34.659909,
+    "lng": -84.487392
+  },
+  "1799": {
+    "name": "Lowe's Home Improvement",
+    "address": "1109 US Highway 72 East, Athens, AL 35611",
+    "lat": 34.787245,
+    "lng": -86.951692
+  },
+  "1801": {
+    "name": "Lowe's Home Improvement",
+    "address": "201 West Main Street, Gun Barrel City, TX 75156",
+    "lat": 32.328938,
+    "lng": -96.114276
+  },
+  "1802": {
+    "name": "Lowe's Home Improvement",
+    "address": "1220 Lakewood Drive, Mount Pleasant, TX 75455",
+    "lat": 33.172957,
+    "lng": -94.999612
+  },
+  "1807": {
+    "name": "Lowe's Home Improvement",
+    "address": "5925 Roswell Road, Sandy Springs, GA 30328",
+    "lat": 33.91716,
+    "lng": -84.377532
+  },
+  "1810": {
+    "name": "Lowe's Home Improvement",
+    "address": "1711 South Broadway Street, Sulphur Springs, TX 75482",
+    "lat": 33.107415,
+    "lng": -95.59859
+  },
+  "1818": {
+    "name": "Lowe's Home Improvement",
+    "address": "161 Meadow Creek Drive, Tahlequah, OK 74464",
+    "lat": 35.892006,
+    "lng": -94.979426
+  },
+  "1856": {
+    "name": "Lowe's Home Improvement",
+    "address": "735 West Oglethorpe Highway, Hinesville, GA 31313",
+    "lat": 31.828469,
+    "lng": -81.599481
+  },
+  "1869": {
+    "name": "Lowe's Home Improvement",
+    "address": "8490 Highway 51 North, Millington, TN 38053",
+    "lat": 35.357119,
+    "lng": -89.891838
+  },
+  "1871": {
+    "name": "Lowe's Home Improvement",
+    "address": "401 Columbus Parkway, Vallejo, CA 94591",
+    "lat": 38.135805,
+    "lng": -122.206236
+  },
+  "1875": {
+    "name": "Lowe's Home Improvement",
+    "address": "1280 Caroline Street NE, Atlanta, GA 30307",
+    "lat": 33.759339,
+    "lng": -84.346626
+  },
+  "1891": {
+    "name": "Lowe's Home Improvement",
+    "address": "1746 South Lynn Riggs Blvd, Claremore, OK 74019",
+    "lat": 36.288914,
+    "lng": -95.631603
+  },
+  "1892": {
+    "name": "Lowe's Home Improvement",
+    "address": "2715 South Loop 256, Palestine, TX 75801",
+    "lat": 31.734738,
+    "lng": -95.621032
+  },
+  "1893": {
+    "name": "Lowe's Home Improvement",
+    "address": "2071 South Highland Ave, Jackson, TN 38301",
+    "lat": 35.553221,
+    "lng": -88.811411
+  },
+  "1895": {
+    "name": "Lowe's Home Improvement",
+    "address": "43612 Pacific Commons Blvd, Fremont, CA 94538",
+    "lat": 37.503698,
+    "lng": -121.970841
+  },
+  "1901": {
+    "name": "Lowe's Home Improvement",
+    "address": "7921 Redwood Drive, Cotati, CA 94931",
+    "lat": 38.333822,
+    "lng": -122.715412
+  },
+  "1925": {
+    "name": "Lowe's Home Improvement",
+    "address": "281 Carpenters Cove Lane, Cornelia, GA 30531",
+    "lat": 34.543703,
+    "lng": -83.540342
+  },
+  "1926": {
+    "name": "Lowe's Home Improvement",
+    "address": "1200 East Cypress Avenue, Redding, CA 96002",
+    "lat": 40.572525,
+    "lng": -122.348837
+  },
+  "1933": {
+    "name": "Lowe's Home Improvement",
+    "address": "935 Tharp Road, Yuba City, CA 95993",
+    "lat": 39.139336,
+    "lng": -121.647555
+  },
+  "1958": {
+    "name": "Lowe's Home Improvement",
+    "address": "1821 Eatonton Highway, Madison, GA 30650",
+    "lat": 33.562294,
+    "lng": -83.480136
+  },
+  "1965": {
+    "name": "Lowe's Home Improvement",
+    "address": "3200 South Main Street, Lindale, TX 75771",
+    "lat": 32.476596,
+    "lng": -95.389749
+  },
+  "1969": {
+    "name": "Lowe's Home Improvement",
+    "address": "118 E Interstate 20, Weatherford, TX 76087",
+    "lat": 32.726903,
+    "lng": -97.786052
+  },
+  "1983": {
+    "name": "Lowe's Home Improvement",
+    "address": "1131 Woodruff Road, Greenville, SC 29607",
+    "lat": 34.827423,
+    "lng": -82.295815
+  },
+  "1986": {
+    "name": "Lowe's Home Improvement",
+    "address": "170 Rainbow Lake Road, Boiling Springs, SC 29316",
+    "lat": 35.05184,
+    "lng": -81.982896
+  },
+  "1988": {
+    "name": "Lowe's Home Improvement",
+    "address": "8370 Camp Creek Blvd, Olive Branch, MS 38654",
+    "lat": 34.967967,
+    "lng": -89.841927
+  },
+  "2204": {
+    "name": "Lowe's Home Improvement",
+    "address": "3341 Lexington Road, Athens, GA 30605",
+    "lat": 33.940482,
+    "lng": -83.322451
+  },
+  "2207": {
+    "name": "Lowe's Home Improvement",
+    "address": "1220 Knox Avenue, North Augusta, SC 29841",
+    "lat": 33.502082,
+    "lng": -81.960902
+  },
+  "2211": {
+    "name": "Lowe's Home Improvement",
+    "address": "811 East Arques Avenue, Sunnyvale, CA 94085",
+    "lat": 37.382159,
+    "lng": -122.011008
+  },
+  "2214": {
+    "name": "Lowe's Home Improvement",
+    "address": "720 University Place, Durant, OK 74701",
+    "lat": 34.003221,
+    "lng": -96.409104
+  },
+  "2215": {
+    "name": "Lowe's Home Improvement",
+    "address": "1955 W Lacey Blvd, Hanford, CA 93230",
+    "lat": 36.326154,
+    "lng": -119.67798
+  },
+  "2220": {
+    "name": "Lowe's Home Improvement",
+    "address": "2100 North Main Street, Cleburne, TX 76033",
+    "lat": 32.379061,
+    "lng": -97.39085
+  },
+  "2225": {
+    "name": "Lowe's Home Improvement",
+    "address": "1021 East Highway 377, Granbury, TX 76048",
+    "lat": 32.432808,
+    "lng": -97.773948
+  },
+  "2227": {
+    "name": "Lowe's Home Improvement",
+    "address": "10342 Trinity Parkway, Stockton, CA 95219",
+    "lat": 38.050345,
+    "lng": -121.372192
+  },
+  "2232": {
+    "name": "Lowe's Home Improvement",
+    "address": "5375 Fairington Road, Lithonia, GA 30038",
+    "lat": 33.699251,
+    "lng": -84.170079
+  },
+  "2235": {
+    "name": "Lowe's Home Improvement",
+    "address": "1201 W. US Highway 380 Business, Decatur, TX 76234",
+    "lat": 33.230084,
+    "lng": -97.5997
+  },
+  "2237": {
+    "name": "Lowe's Home Improvement",
+    "address": "585 North Perkins Road, Memphis, TN 38122",
+    "lat": 35.14706,
+    "lng": -89.909806
+  },
+  "2256": {
+    "name": "Lowe's Home Improvement",
+    "address": "106 Wilkes Ln E, Hampstead, NC 28443",
+    "lat": 34.45293,
+    "lng": -77.60829
+  },
+  "2273": {
+    "name": "Lowe's Home Improvement",
+    "address": "3750 Dublin Boulevard, Dublin, CA 94568",
+    "lat": 37.702795,
+    "lng": -121.867323
+  },
+  "2278": {
+    "name": "Lowe's Home Improvement",
+    "address": "500 West Vandalia Avenue, Porterville, CA 93257",
+    "lat": 36.053741,
+    "lng": -119.028342
+  },
+  "2279": {
+    "name": "Lowe's Home Improvement",
+    "address": "120 Old Wards Ferry Road, Sonora, CA 95370",
+    "lat": 37.97157,
+    "lng": -120.368779
+  },
+  "2280": {
+    "name": "Lowe's Home Improvement",
+    "address": "6011 Lemmon Avenue, Dallas, TX 75209",
+    "lat": 32.830558,
+    "lng": -96.82877
+  },
+  "2334": {
+    "name": "Lowe's Home Improvement",
+    "address": "3303 Entertainment Way, Turlock, CA 95380",
+    "lat": 37.524467,
+    "lng": -120.884905
+  },
+  "2335": {
+    "name": "Lowe's Home Improvement",
+    "address": "12071 Industry Blvd, Jackson, CA 95642",
+    "lat": 38.370653,
+    "lng": -120.802744
+  },
+  "2341": {
+    "name": "Lowe's Home Improvement",
+    "address": "3251 Zinfandel Drive, Rancho Cordova, CA 95670",
+    "lat": 38.583517,
+    "lng": -121.283185
+  },
+  "2356": {
+    "name": "Lowe's Home Improvement",
+    "address": "10106 Two Notch Road, Columbia, SC 29223",
+    "lat": 34.113936,
+    "lng": -80.886612
+  },
+  "2358": {
+    "name": "Lowe's Home Improvement",
+    "address": "1601 West Floyd Baker Blvd, Gaffney, SC 29341",
+    "lat": 35.090789,
+    "lng": -81.66562
+  },
+  "2366": {
+    "name": "Lowe's Home Improvement",
+    "address": "4305 Washington Road, Evans, GA 30809",
+    "lat": 33.53693,
+    "lng": -82.126189
+  },
+  "2424": {
+    "name": "Lowe's Home Improvement",
+    "address": "1601 Columbus Street, Bakersfield, CA 93305",
+    "lat": 35.396111,
+    "lng": -118.973553
+  },
+  "2436": {
+    "name": "Lowe's Home Improvement",
+    "address": "401 Wb Mclean Drive, Cape Carteret, NC 28584",
+    "lat": 34.69254,
+    "lng": -77.064431
+  },
+  "2440": {
+    "name": "Lowe's Home Improvement",
+    "address": "3000 State Highway 121, Euless, TX 76039",
+    "lat": 32.879925,
+    "lng": -97.096762
+  },
+  "2441": {
+    "name": "Lowe's Home Improvement",
+    "address": "902 E US Highway 80, Forney, TX 75126",
+    "lat": 32.743961,
+    "lng": -96.4439
+  },
+  "2451": {
+    "name": "Lowe's Home Improvement",
+    "address": "6584 US Highway 431 South, Owens Cross Roads, AL 35763",
+    "lat": 34.662684,
+    "lng": -86.487443
+  },
+  "2464": {
+    "name": "Lowe's Home Improvement",
+    "address": "520 Saint James Avenue, Goose Creek, SC 29445",
+    "lat": 33.032221,
+    "lng": -80.057724
+  },
+  "2473": {
+    "name": "Lowe's Home Improvement",
+    "address": "1145 E Prosperity Avenue, Tulare, CA 93274",
+    "lat": 36.224683,
+    "lng": -119.329295
+  },
+  "2478": {
+    "name": "Lowe's Home Improvement",
+    "address": "1109 Highway 96, Kathleen, GA 31047",
+    "lat": 32.550179,
+    "lng": -83.693659
+  },
+  "2487": {
+    "name": "Lowe's Home Improvement",
+    "address": "15471 South First Street, Milan, TN 38358",
+    "lat": 35.873825,
+    "lng": -88.746037
+  },
+  "2488": {
+    "name": "Lowe's Home Improvement",
+    "address": "5703 Mcfarland Blvd, Northport, AL 35476",
+    "lat": 33.233298,
+    "lng": -87.613372
+  },
+  "2489": {
+    "name": "Lowe's Home Improvement",
+    "address": "1410 East Boone Ave, Kingsland, GA 31548",
+    "lat": 30.784718,
+    "lng": -81.645091
+  },
+  "2499": {
+    "name": "Lowe's Home Improvement",
+    "address": "51 Lincoln Blvd., Lincoln, CA 95648",
+    "lat": 38.874248,
+    "lng": -121.295208
+  },
+  "2508": {
+    "name": "Lowe's Home Improvement",
+    "address": "5503 Lone Tree Way, Antioch, CA 94531",
+    "lat": 37.962588,
+    "lng": -121.745613
+  },
+  "2516": {
+    "name": "Lowe's Home Improvement",
+    "address": "6200 Long Prairie Road, Flower Mound, TX 75028",
+    "lat": 33.071062,
+    "lng": -97.081043
+  },
+  "2520": {
+    "name": "Lowe's Home Improvement",
+    "address": "2911 Main Street, Newberry, SC 29108",
+    "lat": 34.284108,
+    "lng": -81.590098
+  },
+  "2525": {
+    "name": "Lowe's Home Improvement",
+    "address": "235 Colonial Promenade Pkwy, Alabaster, AL 35007",
+    "lat": 33.231413,
+    "lng": -86.80484
+  },
+  "2540": {
+    "name": "Lowe's Home Improvement",
+    "address": "3801 North May Road, Oklahoma City, OK 73112",
+    "lat": 35.51006,
+    "lng": -97.56713
+  },
+  "2543": {
+    "name": "Lowe's Home Improvement",
+    "address": "425 New Byhalia Road, Collierville, TN 38017",
+    "lat": 35.051682,
+    "lng": -89.689441
+  },
+  "2546": {
+    "name": "Lowe's Home Improvement",
+    "address": "1111 Eastchase Parkway, Ft. Worth, TX 76120",
+    "lat": 32.763829,
+    "lng": -97.165968
+  },
+  "2548": {
+    "name": "Lowe's Home Improvement",
+    "address": "2079 East Main Street, Spartanburg, SC 29307",
+    "lat": 34.971411,
+    "lng": -81.883946
+  },
+  "2559": {
+    "name": "Lowe's Home Improvement",
+    "address": "1603 US Highway 79 South, Henderson, TX 75654",
+    "lat": 32.138391,
+    "lng": -94.795287
+  },
+  "2564": {
+    "name": "Lowe's Home Improvement",
+    "address": "910 US 401 By-Pass, Laurinburg, NC 28352",
+    "lat": 34.761453,
+    "lng": -79.479644
+  },
+  "2567": {
+    "name": "Lowe's Home Improvement",
+    "address": "2773 E. Eldorado Parkway, Little Elm, TX 75068",
+    "lat": 33.180098,
+    "lng": -96.888855
+  },
+  "2571": {
+    "name": "Lowe's Home Improvement",
+    "address": "530 South George Nigh Expressway, Mcalester, OK 74501",
+    "lat": 34.915839,
+    "lng": -95.743265
+  },
+  "2572": {
+    "name": "Lowe's Home Improvement",
+    "address": "6425 Mechanicsville Turnpike, Mechanicsville, VA 23111",
+    "lat": 37.613053,
+    "lng": -77.326268
+  },
+  "2574": {
+    "name": "Lowe's Home Improvement",
+    "address": "7151 SE 29th Street, Midwest City, OK 73110",
+    "lat": 35.43704,
+    "lng": -97.403007
+  },
+  "2595": {
+    "name": "Lowe's Home Improvement",
+    "address": "120 E. Blackstock Road, Spartanburg, SC 29301",
+    "lat": 34.934093,
+    "lng": -81.991256
+  },
+  "2601": {
+    "name": "Lowe's Home Improvement",
+    "address": "1420 North Highway 77, Waxahachie, TX 75165",
+    "lat": 32.423382,
+    "lng": -96.837266
+  },
+  "2604": {
+    "name": "Lowe's Home Improvement",
+    "address": "1935 Arnold Industrial Way, Concord, CA 94520",
+    "lat": 38.005269,
+    "lng": -122.043695
+  },
   "2618": {
     "name": "Lowe's Home Improvement",
     "address": "1301 Nashville Pike, Gallatin, TN 37066",
     "lat": 36.3653488,
     "lng": -86.4869037
+  },
+  "2624": {
+    "name": "Lowe's Home Improvement",
+    "address": "2000 Tappahannock Blvd, Tappahannock, VA 22560",
+    "lat": 37.89843,
+    "lng": -76.868407
+  },
+  "2643": {
+    "name": "Lowe's Home Improvement",
+    "address": "300 Glynn Isles, Brunswick, GA 31525",
+    "lat": 31.202904,
+    "lng": -81.480517
+  },
+  "2646": {
+    "name": "Lowe's Home Improvement",
+    "address": "3122 Interstate 30 West, Greenville, TX 75402",
+    "lat": 33.097217,
+    "lng": -96.113514
+  },
+  "2655": {
+    "name": "Lowe's Home Improvement",
+    "address": "1501 South I-35 Service Road, Moore, OK 73160",
+    "lat": 35.324963,
+    "lng": -97.492878
+  },
+  "2659": {
+    "name": "Lowe's Home Improvement",
+    "address": "4901 Mcclellan Boulevard, Anniston, AL 36206",
+    "lat": 33.708818,
+    "lng": -85.819046
+  },
+  "2660": {
+    "name": "Lowe's Home Improvement",
+    "address": "3020 North Demaree Street, Visalia, CA 93291",
+    "lat": 36.357449,
+    "lng": -119.330184
+  },
+  "2674": {
+    "name": "Lowe's Home Improvement",
+    "address": "1700 E. Lamar Street, Americus, GA 31709",
+    "lat": 32.063802,
+    "lng": -84.200229
+  },
+  "2691": {
+    "name": "Lowe's Home Improvement",
+    "address": "4551 S. Laburnum Avenue, Henrico, VA 23231",
+    "lat": 37.529708,
+    "lng": -77.351565
+  },
+  "2698": {
+    "name": "Lowe's Home Improvement",
+    "address": "1240 Armory Drive, Franklin, VA 23851",
+    "lat": 36.67219,
+    "lng": -76.944928
+  },
+  "2712": {
+    "name": "Lowe's Home Improvement",
+    "address": "2100 West Cleveland Avenue, Madera, CA 93637",
+    "lat": 36.971538,
+    "lng": -120.081728
+  },
+  "2719": {
+    "name": "Lowe's Home Improvement",
+    "address": "1634 E Musgrave Blvd, Abilene, TX 79601",
+    "lat": 32.476085,
+    "lng": -99.692934
+  },
+  "2737": {
+    "name": "Lowe's Home Improvement",
+    "address": "425 Yopp Road, Jacksonville, NC 28540",
+    "lat": 34.750073,
+    "lng": -77.461796
+  },
+  "2755": {
+    "name": "Lowe's Home Improvement",
+    "address": "2250 Lake Washington Blvd, West Sacramento, CA 95691",
+    "lat": 38.555345,
+    "lng": -121.538832
+  },
+  "2756": {
+    "name": "Lowe's Home Improvement",
+    "address": "7225 S Olympia West, Tulsa, OK 74132",
+    "lat": 36.059001,
+    "lng": -96.001739
+  },
+  "2772": {
+    "name": "Lowe's Home Improvement",
+    "address": "1565 Pooler Parkway, Pooler, GA 31322",
+    "lat": 32.091412,
+    "lng": -81.272669
   },
   "2776": {
     "name": "Lowe's Home Improvement",
@@ -59,16 +1907,328 @@
     "lat": 36.695590013031,
     "lng": -86.568477967087
   },
+  "2779": {
+    "name": "Lowe's Home Improvement",
+    "address": "501 South Plano Road, Richardson, TX 75081",
+    "lat": 32.942279,
+    "lng": -96.697264
+  },
+  "2790": {
+    "name": "Lowe's Home Improvement",
+    "address": "775 Ridder Park Drive, San Jose, CA 95131",
+    "lat": 37.379679,
+    "lng": -121.901886
+  },
+  "2801": {
+    "name": "Lowe's Home Improvement",
+    "address": "6401 Lowes Ln, Amarillo, TX 79124",
+    "lat": 35.209993,
+    "lng": -101.907078
+  },
+  "2803": {
+    "name": "Lowe's Home Improvement",
+    "address": "819 South Fourth Street, Hartsville, SC 29550",
+    "lat": 34.365609,
+    "lng": -80.064002
+  },
+  "2805": {
+    "name": "Lowe's Home Improvement",
+    "address": "107 E. Boronda Road, Salinas, CA 93906",
+    "lat": 36.719459,
+    "lng": -121.64881
+  },
+  "2813": {
+    "name": "Lowe's Home Improvement",
+    "address": "5150 Highway 21 S, Rincon, GA 31326",
+    "lat": 32.27315,
+    "lng": -81.230555
+  },
+  "2825": {
+    "name": "Lowe's Home Improvement",
+    "address": "2055 North Central Expressway, Mckinney, TX 75070",
+    "lat": 33.222144,
+    "lng": -96.638053
+  },
+  "2837": {
+    "name": "Lowe's Home Improvement",
+    "address": "3840 East 10th Street, Greenville, NC 27858",
+    "lat": 35.58959,
+    "lng": -77.318472
+  },
+  "2838": {
+    "name": "Lowe's Home Improvement",
+    "address": "2044 Cumming Hwy, Canton, GA 30114",
+    "lat": 34.234388,
+    "lng": -84.454119
+  },
+  "2847": {
+    "name": "Lowe's Home Improvement",
+    "address": "212 North 23rd Street, Paragould, AR 72450",
+    "lat": 36.061318,
+    "lng": -90.515975
+  },
   "2851": {
     "name": "Lowe's Home Improvement",
     "address": "3460 Dickerson Pike, Nashville, TN 37207",
     "lat": 36.242103,
     "lng": -86.757151
   },
+  "2854": {
+    "name": "Lowe's Home Improvement",
+    "address": "2401 North Kelly Avenue, Edmond, OK 73003",
+    "lat": 35.679308,
+    "lng": -97.497937
+  },
+  "2869": {
+    "name": "Lowe's Home Improvement",
+    "address": "100 Green Hill Drive, Whiteville, NC 28472",
+    "lat": 34.30172,
+    "lng": -78.71713
+  },
+  "2878": {
+    "name": "Lowe's Home Improvement",
+    "address": "8550 S.h. 121, Mckinney, TX 75070",
+    "lat": 33.129231,
+    "lng": -96.725905
+  },
+  "2885": {
+    "name": "Lowe's Home Improvement",
+    "address": "4501 US Highway 231, Wetumpka, AL 36092",
+    "lat": 32.507864,
+    "lng": -86.216953
+  },
+  "2903": {
+    "name": "Lowe's Home Improvement",
+    "address": "1000 East State Highway 152, Mustang, OK 73064",
+    "lat": 35.389248,
+    "lng": -97.705415
+  },
+  "2905": {
+    "name": "Lowe's Home Improvement",
+    "address": "7771 Good Middling Drive, Fayetteville, NC 28304",
+    "lat": 35.027536,
+    "lng": -79.0576
+  },
+  "2906": {
+    "name": "Lowe's Home Improvement",
+    "address": "3080 N Main Street, Hope Mills, NC 28348",
+    "lat": 34.979381,
+    "lng": -78.962353
+  },
+  "2908": {
+    "name": "Lowe's Home Improvement",
+    "address": "3260 Lawrenceville Suwanee Rd, Suwanee, GA 30024",
+    "lat": 34.036192,
+    "lng": -84.054523
+  },
+  "2918": {
+    "name": "Lowe's Home Improvement",
+    "address": "2085 Waterside Drive, Prince George, VA 23875",
+    "lat": 37.248221,
+    "lng": -77.364855
+  },
+  "2928": {
+    "name": "Lowe's Home Improvement",
+    "address": "12100 Montana Avenue, El Paso, TX 79938",
+    "lat": 31.805104,
+    "lng": -106.265158
+  },
+  "2929": {
+    "name": "Lowe's Home Improvement",
+    "address": "111 East FM 544, Murphy, TX 75094",
+    "lat": 33.013241,
+    "lng": -96.610257
+  },
+  "2948": {
+    "name": "Lowe's Home Improvement",
+    "address": "9600 Dorchester Road, Summerville, SC 29485",
+    "lat": 32.937901,
+    "lng": -80.143622
+  },
+  "2962": {
+    "name": "Lowe's Home Improvement",
+    "address": "4101 East 42nd, Ste P, Odessa, TX 79762",
+    "lat": 31.897738,
+    "lng": -102.339389
+  },
+  "2967": {
+    "name": "Lowe's Home Improvement",
+    "address": "5570 Platt Springs Road, Lexington, SC 29073",
+    "lat": 33.908652,
+    "lng": -81.229388
+  },
+  "2968": {
+    "name": "Lowe's Home Improvement",
+    "address": "1665 S Highway 27, Carrollton, GA 30117",
+    "lat": 33.545087,
+    "lng": -85.07658
+  },
+  "2969": {
+    "name": "Lowe's Home Improvement",
+    "address": "4022 Atlanta Highway, Loganville, GA 30052",
+    "lat": 33.848872,
+    "lng": -83.911126
+  },
+  "2982": {
+    "name": "Lowe's Home Improvement",
+    "address": "191 Porters Neck Road, Wilmington, NC 28411",
+    "lat": 34.302302,
+    "lng": -77.789084
+  },
   "3003": {
     "name": "Lowe's Home Improvement",
     "address": "1622 Madison St, Clarksville, TN 37043",
     "lat": 36.5125405,
     "lng": -87.3183943
+  },
+  "3006": {
+    "name": "Lowe's Home Improvement",
+    "address": "1807 Highway 31 NW, Hartselle, AL 35640",
+    "lat": 34.46248,
+    "lng": -86.951483
+  },
+  "3022": {
+    "name": "Lowe's Home Improvement",
+    "address": "111 River Oaks Drive, Tarboro, NC 27886",
+    "lat": 35.881776,
+    "lng": -77.546813
+  },
+  "3026": {
+    "name": "Lowe's Home Improvement",
+    "address": "1051 Sams Crossing Drive, Columbia, SC 29229",
+    "lat": 34.140145,
+    "lng": -80.941567
+  },
+  "3041": {
+    "name": "Lowe's Home Improvement",
+    "address": "500 Park Plaza Drive, New Albany, MS 38652",
+    "lat": 34.490101,
+    "lng": -89.028718
+  },
+  "3050": {
+    "name": "Lowe's Home Improvement",
+    "address": "408 Highway 28 Byp, Anderson, SC 29626",
+    "lat": 34.483368,
+    "lng": -82.663429
+  },
+  "3071": {
+    "name": "Lowe's Home Improvement",
+    "address": "608 Issaqueena Trail, Central, SC 29630",
+    "lat": 34.690659,
+    "lng": -82.787184
+  },
+  "3095": {
+    "name": "Lowe's Home Improvement",
+    "address": "491 Bayshore Blvd, San Francisco, CA 94124",
+    "lat": 37.740233,
+    "lng": -122.40618
+  },
+  "3104": {
+    "name": "Lowe's Home Improvement",
+    "address": "4301 E. University Dr., Prosper, TX 75078",
+    "lat": 33.220975,
+    "lng": -96.735504
+  },
+  "3164": {
+    "name": "Lowe's Home Improvement",
+    "address": "3400 North Texas Street, Fairfield, CA 94533",
+    "lat": 38.292097,
+    "lng": -122.031707
+  },
+  "3167": {
+    "name": "Lowe's Home Improvement",
+    "address": "2519 West Pierce Street, Carlsbad, NM 88220",
+    "lat": 32.442814,
+    "lng": -104.262236
+  },
+  "3202": {
+    "name": "Lowe's Home Improvement",
+    "address": "1510 West Joe Harvey Blvd, Hobbs, NM 88240",
+    "lat": 32.741808,
+    "lng": -103.154567
+  },
+  "3216": {
+    "name": "Lowe's Home Improvement",
+    "address": "1500 North Croatan Highway, Kill Devil Hills, NC 27948",
+    "lat": 36.026608,
+    "lng": -75.670335
+  },
+  "3317": {
+    "name": "Lowe's Home Improvement",
+    "address": "3265 North Highway 17, Mount Pleasant, SC 29466",
+    "lat": 32.87044,
+    "lng": -79.777174
+  },
+  "3478": {
+    "name": "Lowe's Home Improvement",
+    "address": "3716 Gateway Blvd, Leland, NC 28451",
+    "lat": 34.212529,
+    "lng": -78.020518
+  },
+  "3498": {
+    "name": "Lowe's Home Improvement",
+    "address": "1180 Braselton Village Parkway, Braselton, GA 30517",
+    "lat": 34.105739,
+    "lng": -83.814366
+  },
+  "3518": {
+    "name": "Lowe's Home Improvement",
+    "address": "12980 N.W Highway 287, Haslet, TX 76052",
+    "lat": 32.965561,
+    "lng": -97.411346
+  },
+  "3527": {
+    "name": "Lowe's Home Improvement",
+    "address": "200 Nicolette Creek Rd, Midlothian, TX 76065",
+    "lat": 32.481132,
+    "lng": -97.006184
+  },
+  "3528": {
+    "name": "Lowe's Home Improvement",
+    "address": "3540 S Preston Rd, Celina, TX 75009",
+    "lat": 33.277195,
+    "lng": -96.781586
+  },
+  "3529": {
+    "name": "Lowe's Home Improvement",
+    "address": "634 W Interstate 30, Royse City, TX 75189",
+    "lat": 32.966,
+    "lng": -96.345
+  },
+  "3573": {
+    "name": "Lowe's Home Improvement",
+    "address": "3500 W Airport Freeway, Irving, TX 75062",
+    "lat": 32.833252,
+    "lng": -96.996007
+  },
+  "3576": {
+    "name": "Lowe's Home Improvement",
+    "address": "481 West Boyce Street, Manning, SC 29102",
+    "lat": 33.698377,
+    "lng": -80.221663
+  },
+  "3608": {
+    "name": "Lowe's Home Improvement",
+    "address": "3015 S Horner Boulevard, Sanford, NC 27332",
+    "lat": 35.452834,
+    "lng": -79.134788
+  },
+  "3640": {
+    "name": "Lowe's Home Improvement",
+    "address": "101 Verdae Blvd., Suite 200, Greenville, SC 29607",
+    "lat": 34.82072,
+    "lng": -82.338
+  },
+  "3643": {
+    "name": "Lowe's Home Improvement",
+    "address": "3729 Battleground Ave, Greensboro, NC 27410",
+    "lat": 36.13203693406749,
+    "lng": -79.85771421994498
+  },
+  "3645": {
+    "name": "Lowe's Home Improvement",
+    "address": "6275 University Drive, Huntsville, AL 35806",
+    "lat": 34.74156,
+    "lng": -86.67859
   }
 }
