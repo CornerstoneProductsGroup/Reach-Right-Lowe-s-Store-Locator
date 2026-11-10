@@ -138,10 +138,11 @@ button:disabled {
 .map-wrap {
   padding: 0;
   overflow: hidden;
+  height: min(68vh, 720px);
 }
 
 #map {
-  height: min(68vh, 720px);
+  height: 100%;
   width: 100%;
 }
 
@@ -267,7 +268,7 @@ th {
     width: 100%;
   }
 
-  #map {
+  .map-wrap {
     height: 52vh;
   }
 
