@@ -45,27 +45,35 @@
       <p class="hint">Search uses the Reach Right Lowe's list you provided. Results are ordered by closest distance.</p>
     </section>
 
-    <section class="panel map-wrap">
-      <div id="map" aria-label="Store map"></div>
-    </section>
+    <div class="locator-layout">
+      <section class="panel map-wrap">
+        <div id="map" aria-label="Store map"></div>
+      </section>
 
-    <section class="panel results-wrap">
-      <h2>Results</h2>
-      <table id="resultsTable">
-        <thead>
-          <tr>
-            <th>Store #</th>
-            <th>Address</th>
-            <th>Distance</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td colspan="3">Enter ZIP code and radius to search.</td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
+      <div class="results-column">
+        <section class="panel results-wrap">
+          <h2>Results</h2>
+          <table id="resultsTable">
+            <thead>
+              <tr>
+                <th>Store #</th>
+                <th>Address</th>
+                <th>Distance</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td colspan="3">Enter ZIP code and radius to search.</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+
+        <div class="brand-art" aria-hidden="true">
+          <img src="./assets/reach-right-homepage.png" alt="">
+        </div>
+      </div>
+    </div>
   </main>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="anonymous"></script>

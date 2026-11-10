@@ -16,8 +16,6 @@
 }
 
 body {
-  position: relative;
-  isolation: isolate;
   margin: 0;
   font-family: "Trebuchet MS", "Segoe UI", sans-serif;
   color: var(--ink);
@@ -25,16 +23,6 @@ body {
     radial-gradient(circle at 10% 10%, #fff8e8 0, #fff8e8 20%, transparent 40%),
     radial-gradient(circle at 90% 15%, #e4f2dd 0, #e4f2dd 15%, transparent 45%),
     var(--bg);
-}
-
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: -1;
-  pointer-events: none;
-  background: url("./assets/reach-right-homepage.png") right 3vw center / min(38vw, 500px) auto no-repeat;
-  opacity: 0.5;
 }
 
 .page {
@@ -157,6 +145,32 @@ button:disabled {
   width: 100%;
 }
 
+.locator-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1rem;
+}
+
+.results-column {
+  display: grid;
+  gap: 1rem;
+}
+
+.brand-art {
+  display: grid;
+  place-items: center;
+  height: 320px;
+  overflow: hidden;
+}
+
+.brand-art img {
+  display: block;
+  width: auto;
+  height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+}
+
 .state-name-label {
   background: rgba(255, 255, 255, 0.88);
   border: 0;
@@ -201,26 +215,44 @@ th {
 
 @media (min-width: 1000px) {
   .page {
-    grid-template-columns: minmax(0, 1.65fr) minmax(340px, 0.9fr);
-    align-items: start;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .hero,
-  .controls {
+  .controls,
+  .locator-layout {
     grid-column: 1 / -1;
   }
 
+  .locator-layout {
+    grid-template-columns: minmax(0, 1.65fr) minmax(340px, 0.9fr);
+    align-items: stretch;
+  }
+
+  .results-column {
+    grid-template-rows: auto minmax(0, 1fr);
+    min-height: min(68vh, 720px);
+  }
+
   .results-wrap {
-    max-height: min(68vh, 720px);
+    max-height: min(42vh, 420px);
     overflow: auto;
+  }
+
+  .brand-art {
+    height: auto;
+    min-height: 0;
+  }
+
+  .brand-art img {
+    max-height: 100%;
   }
 }
 
 @media (max-width: 700px) {
-  body::before {
-    background-position: right -80px center;
-    background-size: 260px auto;
-    opacity: 0.28;
+  .brand-art {
+    height: min(56vh, 360px);
+    min-height: 220px;
   }
 
   .form-grid {
