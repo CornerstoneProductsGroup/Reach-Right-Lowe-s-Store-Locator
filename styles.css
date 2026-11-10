@@ -138,6 +138,24 @@ button:disabled {
   width: 100%;
 }
 
+.state-name-label {
+  background: rgba(255, 255, 255, 0.88);
+  border: 0;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(12, 29, 16, 0.2);
+  color: #20352a;
+  font-family: inherit;
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 1.1;
+  padding: 2px 3px;
+  white-space: nowrap;
+}
+
+.state-name-label::before {
+  display: none;
+}
+
 h2 {
   margin-top: 0.2rem;
 }

@@ -37,6 +37,15 @@ async function loadStateBoundaries() {
         weight: 1.6,
         opacity: 0.95,
         fillOpacity: 0
+      },
+      onEachFeature(feature, layer) {
+        layer.bindTooltip(feature.properties.name, {
+          permanent: true,
+          direction: "center",
+          pane: "overlayPane",
+          className: "state-name-label",
+          opacity: 1
+        });
       }
     }).addTo(map);
   } catch (error) {
