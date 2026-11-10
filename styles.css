@@ -16,13 +16,25 @@
 }
 
 body {
+  position: relative;
+  isolation: isolate;
   margin: 0;
   font-family: "Trebuchet MS", "Segoe UI", sans-serif;
   color: var(--ink);
   background:
-    linear-gradient(rgba(246, 247, 242, 0.78), rgba(246, 247, 242, 0.78)),
-    url("./assets/store-locator-road.jpg") center 58% / cover no-repeat fixed,
+    radial-gradient(circle at 10% 10%, #fff8e8 0, #fff8e8 20%, transparent 40%),
+    radial-gradient(circle at 90% 15%, #e4f2dd 0, #e4f2dd 15%, transparent 45%),
     var(--bg);
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background: url("./assets/reach-right-homepage.png") right 3vw center / min(38vw, 500px) auto no-repeat;
+  opacity: 0.5;
 }
 
 .page {
@@ -205,6 +217,12 @@ th {
 }
 
 @media (max-width: 700px) {
+  body::before {
+    background-position: right -80px center;
+    background-size: 260px auto;
+    opacity: 0.28;
+  }
+
   .form-grid {
     grid-template-columns: 1fr;
   }
