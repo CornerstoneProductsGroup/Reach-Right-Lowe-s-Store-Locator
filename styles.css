@@ -20,8 +20,8 @@ body {
   font-family: "Trebuchet MS", "Segoe UI", sans-serif;
   color: var(--ink);
   background:
-    radial-gradient(circle at 10% 10%, #fff8e8 0, #fff8e8 20%, transparent 40%),
-    radial-gradient(circle at 90% 15%, #e4f2dd 0, #e4f2dd 15%, transparent 45%),
+    linear-gradient(rgba(246, 247, 242, 0.78), rgba(246, 247, 242, 0.78)),
+    url("./assets/store-locator-road.jpg") center 58% / cover no-repeat fixed,
     var(--bg);
 }
 
