@@ -26,7 +26,7 @@ body {
 }
 
 .page {
-  width: min(1100px, 92vw);
+  width: min(1480px, 94vw);
   margin: 2rem auto 3rem;
   display: grid;
   gap: 1rem;
@@ -134,7 +134,7 @@ button:disabled {
 }
 
 #map {
-  height: min(62vh, 560px);
+  height: min(68vh, 720px);
   width: 100%;
 }
 
@@ -160,6 +160,23 @@ th {
   text-transform: uppercase;
   color: var(--muted);
   letter-spacing: 0.04em;
+}
+
+@media (min-width: 1000px) {
+  .page {
+    grid-template-columns: minmax(0, 1.65fr) minmax(340px, 0.9fr);
+    align-items: start;
+  }
+
+  .hero,
+  .controls {
+    grid-column: 1 / -1;
+  }
+
+  .results-wrap {
+    max-height: min(68vh, 720px);
+    overflow: auto;
+  }
 }
 
 @media (max-width: 700px) {

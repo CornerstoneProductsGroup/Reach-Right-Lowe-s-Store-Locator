@@ -1,4 +1,5 @@
 const DIRECTORY_PATH = "./data/lowes-store-directory.json";
+const STATE_BOUNDARIES_PATH = "./data/us-states.geojson";
 
 const zipInput = document.getElementById("zipCode");
 const radiusInput = document.getElementById("radiusMiles");
@@ -16,6 +17,34 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19,
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
+
+async function loadStateBoundaries() {
+  try {
+    const response = await fetch(STATE_BOUNDARIES_PATH);
+    if (!response.ok) {
+      throw new Error("Unable to load state boundaries");
+    }
+
+    const boundaryData = await response.json();
+    const states = boundaryData.features.filter(
+      (feature) => !["District of Columbia", "Puerto Rico"].includes(feature.properties.name)
+    );
+
+    L.geoJSON(states, {
+      interactive: false,
+      style: {
+        color: "#3b5146",
+        weight: 1.6,
+        opacity: 0.95,
+        fillOpacity: 0
+      }
+    }).addTo(map);
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+loadStateBoundaries();
 
 let stores = [];
 let markers = [];
