@@ -152,11 +152,6 @@ button:disabled {
   gap: 1rem;
 }
 
-.results-column {
-  display: grid;
-  gap: 1rem;
-}
-
 .brand-art {
   display: grid;
   place-items: center;
@@ -167,8 +162,9 @@ button:disabled {
 .brand-art img {
   display: block;
   width: auto;
-  height: 100%;
+  height: auto;
   max-width: 100%;
+  max-height: 100%;
   object-fit: contain;
 }
 
@@ -224,29 +220,30 @@ th {
   .locator-layout {
     grid-column: 1 / -1;
   }
+}
 
+@media (min-width: 1200px) {
   .locator-layout {
-    grid-template-columns: minmax(0, 1.65fr) minmax(340px, 0.9fr);
+    grid-template-columns: minmax(0, 1.65fr) minmax(260px, 0.85fr) minmax(260px, 0.85fr);
+    grid-template-areas: "map results art";
     align-items: stretch;
   }
 
-  .results-column {
-    grid-template-rows: auto minmax(0, 1fr);
-    min-height: min(68vh, 720px);
+  .map-wrap {
+    grid-area: map;
   }
 
   .results-wrap {
-    max-height: min(42vh, 420px);
+    grid-area: results;
+    height: min(68vh, 720px);
+    max-height: none;
     overflow: auto;
   }
 
   .brand-art {
-    height: auto;
+    grid-area: art;
+    height: min(68vh, 720px);
     min-height: 0;
-  }
-
-  .brand-art img {
-    max-height: 100%;
   }
 }
 
