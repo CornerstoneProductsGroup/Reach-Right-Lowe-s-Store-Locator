@@ -36,6 +36,7 @@ body::before {
 }
 
 .page {
+  --tool-rail-width: clamp(88px, 8vw, 124px);
   width: min(1480px, 94vw);
   margin: 2rem auto 3rem;
   display: grid;
@@ -162,6 +163,14 @@ button:disabled {
   gap: 1rem;
 }
 
+.locator-stage,
+.locator-content {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1rem;
+  min-width: 0;
+}
+
 .tool-gallery {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
@@ -224,34 +233,56 @@ th {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  .hero,
-  .controls,
-  .locator-layout {
+  .locator-stage {
     grid-column: 1 / -1;
+  }
+
+  .locator-layout {
+    grid-template-columns: minmax(0, 1.65fr) minmax(250px, 0.85fr);
+    align-items: stretch;
   }
 }
 
 @media (min-width: 1200px) {
+  .hero {
+    width: calc(100% - var(--tool-rail-width) - var(--tool-rail-width) - 2rem);
+    margin-inline: auto;
+  }
+
+  .locator-stage {
+    grid-template-columns: var(--tool-rail-width) minmax(0, 1fr) var(--tool-rail-width);
+    align-items: stretch;
+  }
+
+  .locator-content {
+    grid-column: 2;
+    grid-row: 1;
+    align-content: start;
+  }
+
+  .tool-gallery-left {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .tool-gallery-right {
+    grid-column: 3;
+    grid-row: 1;
+  }
+
   .locator-layout {
-    grid-template-columns: minmax(76px, 0.25fr) minmax(0, 1.65fr) minmax(250px, 0.85fr) minmax(76px, 0.25fr);
-    grid-template-areas: "tools-left map results tools-right";
+    grid-template-areas: "map results";
     align-items: stretch;
   }
 
   .tool-gallery {
     grid-template-columns: minmax(0, 1fr);
     grid-template-rows: repeat(5, minmax(0, 1fr));
-    height: min(68vh, 720px);
-    gap: 0.4rem;
+    align-self: stretch;
+    grid-auto-rows: 1fr;
+    min-height: 0;
+    gap: 0.3rem;
     padding: 0;
-  }
-
-  .tool-gallery-left {
-    grid-area: tools-left;
-  }
-
-  .tool-gallery-right {
-    grid-area: tools-right;
   }
 
   .map-wrap {
@@ -267,7 +298,7 @@ th {
 
   .tool-gallery img {
     height: 100%;
-    max-height: 120px;
+    max-height: 140px;
   }
 }
 

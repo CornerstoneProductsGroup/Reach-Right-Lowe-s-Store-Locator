@@ -18,38 +18,64 @@
       <p class="subtitle">Enter your ZIP code and distance to find nearby Lowe's stores carrying Reach Right USA.</p>
     </section>
 
-    <section class="panel controls">
-      <div class="form-grid">
-        <div>
-          <label for="zipCode">ZIP code</label>
-          <input id="zipCode" inputmode="numeric" maxlength="5" placeholder="37067" aria-label="ZIP code">
-        </div>
-        <div>
-          <label for="radiusMiles">Distance (miles)</label>
-          <select id="radiusMiles" aria-label="Distance in miles">
-            <option value="10">10 miles</option>
-            <option value="25" selected>25 miles</option>
-            <option value="50">50 miles</option>
-            <option value="75">75 miles</option>
-            <option value="100">100 miles</option>
-            <option value="150">150 miles</option>
-            <option value="200">200 miles</option>
-            <option value="300">300 miles</option>
-            <option value="500">500 miles</option>
-          </select>
+    <div class="locator-stage">
+      <div class="locator-content">
+        <section class="panel controls">
+          <div class="form-grid">
+            <div>
+              <label for="zipCode">ZIP code</label>
+              <input id="zipCode" inputmode="numeric" maxlength="5" placeholder="37067" aria-label="ZIP code">
+            </div>
+            <div>
+              <label for="radiusMiles">Distance (miles)</label>
+              <select id="radiusMiles" aria-label="Distance in miles">
+                <option value="10">10 miles</option>
+                <option value="25" selected>25 miles</option>
+                <option value="50">50 miles</option>
+                <option value="75">75 miles</option>
+                <option value="100">100 miles</option>
+                <option value="150">150 miles</option>
+                <option value="200">200 miles</option>
+                <option value="300">300 miles</option>
+                <option value="500">500 miles</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="actions">
+            <button id="searchButton" type="button">Find Stores</button>
+            <button id="exportButton" type="button" disabled>Export Results</button>
+          </div>
+
+          <p id="status" class="status">Ready.</p>
+          <p class="hint">Search uses the Reach Right Lowe's list you provided. Results are ordered by closest distance.</p>
+        </section>
+
+        <div class="locator-layout">
+          <section class="panel map-wrap">
+            <div id="map" aria-label="Store map"></div>
+          </section>
+
+          <section class="panel results-wrap">
+            <h2>Results</h2>
+            <table id="resultsTable">
+              <thead>
+                <tr>
+                  <th>Store #</th>
+                  <th>Address</th>
+                  <th>Distance</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td colspan="3">Enter ZIP code and radius to search.</td>
+                </tr>
+              </tbody>
+            </table>
+          </section>
         </div>
       </div>
 
-      <div class="actions">
-        <button id="searchButton" type="button">Find Stores</button>
-        <button id="exportButton" type="button" disabled>Export Results</button>
-      </div>
-
-      <p id="status" class="status">Ready.</p>
-      <p class="hint">Search uses the Reach Right Lowe's list you provided. Results are ordered by closest distance.</p>
-    </section>
-
-    <div class="locator-layout">
       <div class="tool-gallery tool-gallery-left" role="group" aria-label="Reach Right attachments, left side">
         <img src="./assets/tools/tool-1.png" alt="Reach Right handle on a shovel" loading="lazy">
         <img src="./assets/tools/tool-2.png" alt="Reach Right handle on a floor squeegee" loading="lazy">
@@ -57,28 +83,6 @@
         <img src="./assets/tools/tool-4.png" alt="Reach Right handle on a squeegee" loading="lazy">
         <img src="./assets/tools/tool-5.png" alt="Reach Right handle on a push broom" loading="lazy">
       </div>
-
-      <section class="panel map-wrap">
-        <div id="map" aria-label="Store map"></div>
-      </section>
-
-      <section class="panel results-wrap">
-        <h2>Results</h2>
-        <table id="resultsTable">
-          <thead>
-            <tr>
-              <th>Store #</th>
-              <th>Address</th>
-              <th>Distance</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td colspan="3">Enter ZIP code and radius to search.</td>
-            </tr>
-          </tbody>
-        </table>
-      </section>
 
       <div class="tool-gallery tool-gallery-right" role="group" aria-label="Reach Right attachments, right side">
         <img src="./assets/tools/tool-6.png" alt="Reach Right handle on a rake" loading="lazy">
