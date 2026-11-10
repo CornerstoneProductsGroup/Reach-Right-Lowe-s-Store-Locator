@@ -167,22 +167,6 @@ button:disabled {
   object-fit: contain;
 }
 
-.brand-art {
-  display: grid;
-  place-items: center;
-  height: 320px;
-  overflow: hidden;
-}
-
-.brand-art img {
-  display: block;
-  width: auto;
-  height: auto;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-}
-
 .state-name-label {
   background: rgba(255, 255, 255, 0.88);
   border: 0;
@@ -239,10 +223,10 @@ th {
 
 @media (min-width: 1200px) {
   .locator-layout {
-    grid-template-columns: minmax(0, 1.65fr) minmax(260px, 0.85fr) minmax(260px, 0.85fr);
+    grid-template-columns: minmax(0, 1.65fr) minmax(260px, 0.85fr);
     grid-template-areas:
-      "map results art"
-      "tools tools .";
+      "map results"
+      "tools tools";
     align-items: stretch;
   }
 
@@ -257,12 +241,6 @@ th {
     overflow: auto;
   }
 
-  .brand-art {
-    grid-area: art;
-    height: min(68vh, 720px);
-    min-height: 0;
-  }
-
   .tool-gallery {
     grid-area: tools;
     grid-template-columns: repeat(6, minmax(0, 1fr));
@@ -275,11 +253,6 @@ th {
 }
 
 @media (max-width: 700px) {
-  .brand-art {
-    height: min(56vh, 360px);
-    min-height: 220px;
-  }
-
   .form-grid {
     grid-template-columns: 1fr;
   }
